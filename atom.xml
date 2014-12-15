@@ -1,11 +1,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
-    <title>Planet</title>
+    <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2014-12-15T09:40:01+01:00</updated>
+    <updated>2014-12-15T10:49:17+01:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
-        <name>Clermont'ech</name>
+        <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
     
