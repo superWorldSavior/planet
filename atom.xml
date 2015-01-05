@@ -2,12 +2,28 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2015-01-05T10:53:10+01:00</updated>
+    <updated>2015-01-05T14:03:48+01:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Spring Boot et Spring 4</title>
+        <updated>2015-01-15T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/01/15/Spring-Boot-et-Spring-4.X</id>
+        <content type="html">&lt;h3&gt;Spring Boot&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://projects.spring.io/spring-boot/&quot;&gt;Spring Boot&lt;/a&gt; est une boîte à outils qui vous permet de développer et déployer vos applications Spring en un temps record, grâce a son approche orientée convention plutôt que configuration.
+Spring Boot inclus également &lt;em&gt;un mode de packaging qui permet de lancer son application avec une simple commande&lt;/em&gt; &lt;code&gt;java -jar application.jar&lt;/code&gt;&lt;em&gt;, des starters qui sont des dépendances spécialisée pour un usage donné, des endpoints automatiques orientés dev (/beans, /env, mapping) ou devops (/health), une configuration avancées très simple, tout est personnalisable, il propose un mécanisme d’activation de beans sur condition (par exemple présence d’une classe dans le classpath) très utile, &lt;a href=&quot;http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/&quot;&gt;guide de référence&lt;/a&gt;, configuration par défaut d’un certain nombre de paramètre via application.properties ou application.yml&lt;/em&gt;.
+En 2015, ne commencez pas un projet Web basé sur Spring sans Spring Boot, il n’y a &lt;strong&gt;aucune&lt;/strong&gt; contre-indication ! Alors venez voir cette présentation.&lt;/p&gt;
+
+&lt;h3&gt;Quoi de neuf dans Spring 4.0 et 4.1&lt;/h3&gt;
+
+&lt;p&gt;Spring 4.2 arrive dans quelques mois, cette présentation sera l’occasion de vous détailler les nouveautés apportées dans les dernières versions. Au menu : &lt;em&gt;support de Java 8, Amélioration du support JMS, Support complet de JCache (JSR-107), Compilateur SpEL, Nouveau mécanisme de gestion des ressources statiques, support des types génériques pour l&amp;#39;injection, annotation @Lazy améliorée, Support des JSONView, Support des Groovy markup templates, Support de JSONP, Configuration XML et JavaConfig : ViewController amélioré et ViewResolver, Support Websocket, SockJS et STOMP&lt;/em&gt;.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>Séminaire Confiance Numérique</title>
