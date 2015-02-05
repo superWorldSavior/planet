@@ -2,12 +2,20 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2015-01-05T18:37:02+01:00</updated>
+    <updated>2015-02-05T09:58:57+01:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Des signatures en blanc de toutes les couleurs</title>
+        <updated>2015-02-05T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/02/05/seminiaire-confiance-numerique</id>
+        <content type="html">&lt;p&gt;Les signatures en blanc ont trouvé de nombreuses applications quand de l&amp;#39;anonymat est nécessaire, on peut penser par exemple à des systèmes de monnaie électronique ou de vote électronique. Elles permettent à un utilisateur de faire signer un message à un signataire sans que celui-ci ne puisse obtenir d&amp;#39;information sur ce qu&amp;#39;il signe. Nous verrons comment l&amp;#39;approche autour des signatures en blanc a évolué, et présenterons comment obtenir un schéma à la fois optimal en terme de nombres d&amp;#39;étapes et efficace en terme de communication. Ensuite, nous montrerons comment un tel schéma peut être utiliser en vue d&amp;#39;application comme le vote, le paiement ou des opérations linéaires sur un réseau de senseurs.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>Spring Boot et Spring 4</title>
