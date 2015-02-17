@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2015-02-10T12:34:59+01:00</updated>
+    <updated>2015-02-17T13:59:34+01:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -36,6 +36,22 @@
         <content type="html">&lt;h3&gt;Olivier Pereira Université catholique de Louvain (UCL), Crypto group&lt;/h3&gt;
 
 &lt;p&gt;Le secret du vote est une exigence incontournable dans la plupart de nos élections. Ce secret n&amp;#39;est cependant jamais absolu : il va dépendre du format des bulletins de vote, des règles de dépouillement, du taux de participation des votants, et même de leurs choix. Qui plus est, ce secret peut être obtenu par des techniques très différentes, qui amènent généralement à différents compromis, et ce y compris dans les systèmes de vote dits &amp;quot;universellement vérifiables&amp;quot;. Dans cet exposé, nous introduisons différentes mesures de la confidentialité du vote, et illustrons leur usage dans des élections réelles. Nous introduirons aussi une nouvelle primitive cryptographique, les systèmes de chiffrement conforme à une mise en gage, et montrerons comment cette primitive peut être utilisée pour rendre des élections universellement vérifiables sans affaiblir le secret des votes, y compris à long terme.  Cet exposé est basé sur des travaux réalisés avec David Bernhard, Véronique Cortier, Edouard Cuvelier, Thomas Peters et Bogdan Warinschi.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>A la (re)découverte des langages fonctionnels</title>
+        <updated>2015-02-26T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/02/26/A-la-re-decouverte-des-langages-fonctionnels</id>
+        <content type="html">&lt;h3&gt;A la (re)découverte des langages fonctionnels&lt;/h3&gt;
+
+&lt;p&gt;Avec la redécouverte des langages &lt;strong&gt;fonctionnels&lt;/strong&gt;, poussés notamment par le besoin de &lt;strong&gt;parallélisme&lt;/strong&gt; sur les architectures &lt;strong&gt;multi-cœurs&lt;/strong&gt; et les problématiques de &lt;strong&gt;passage à l’échelle&lt;/strong&gt;, différents &lt;strong&gt;concepts&lt;/strong&gt;, mal connus du développeur non familiarisé avec l’approche fonctionnelle, deviennent &lt;strong&gt;populaires&lt;/strong&gt;.
+On entend ainsi de plus en plus parler de « &lt;strong&gt;lambda&lt;/strong&gt; », « &lt;strong&gt;closure&lt;/strong&gt; », voire même de « &lt;strong&gt;partialisation&lt;/strong&gt; », de « &lt;strong&gt;curryfication&lt;/strong&gt; » ou de « &lt;strong&gt;monade&lt;/strong&gt; ».
+Cette présentation reprendra donc les principaux concepts de la programmation fonctionnelle, afin d’essayer de &lt;strong&gt;mieux s’y retrouver&lt;/strong&gt; dans ce jargon et ces concepts. Elle s’efforcera aussi de montrer comment appliquer certains de ces concepts même dans des contextes non fonctionnels, et quels peuvent en être les bénéfices.&lt;/p&gt;
+
+&lt;h3&gt;Yannick Loiseau&lt;/h3&gt;
+
+&lt;p&gt;Pythonista, LOD and semantic web enthusiast, REST addict, geek&lt;/p&gt;
 </content>
     </entry>
     
