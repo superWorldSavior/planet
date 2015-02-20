@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2015-02-17T13:59:34+01:00</updated>
+    <updated>2015-02-20T09:18:06+01:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -36,6 +36,14 @@
         <content type="html">&lt;h3&gt;Olivier Pereira Université catholique de Louvain (UCL), Crypto group&lt;/h3&gt;
 
 &lt;p&gt;Le secret du vote est une exigence incontournable dans la plupart de nos élections. Ce secret n&amp;#39;est cependant jamais absolu : il va dépendre du format des bulletins de vote, des règles de dépouillement, du taux de participation des votants, et même de leurs choix. Qui plus est, ce secret peut être obtenu par des techniques très différentes, qui amènent généralement à différents compromis, et ce y compris dans les systèmes de vote dits &amp;quot;universellement vérifiables&amp;quot;. Dans cet exposé, nous introduisons différentes mesures de la confidentialité du vote, et illustrons leur usage dans des élections réelles. Nous introduirons aussi une nouvelle primitive cryptographique, les systèmes de chiffrement conforme à une mise en gage, et montrerons comment cette primitive peut être utilisée pour rendre des élections universellement vérifiables sans affaiblir le secret des votes, y compris à long terme.  Cet exposé est basé sur des travaux réalisés avec David Bernhard, Véronique Cortier, Edouard Cuvelier, Thomas Peters et Bogdan Warinschi.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #13</title>
+        <updated>2015-03-04T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/03/04/apihour-13</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
     
