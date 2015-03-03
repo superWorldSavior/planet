@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2015-03-02T14:58:53+01:00</updated>
+    <updated>2015-03-03T22:23:39+01:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -16,6 +16,16 @@
         <content type="html">&lt;h3&gt;Alexandre Anzala-Yamajako Thales Communication &amp;amp; Security, Thales Paris, France&lt;/h3&gt;
 
 &lt;p&gt;L&amp;#39;augmentation des débits de connexion a permis l&amp;#39;avènement du stockage de données dans le cloud qui offre de nouvelles perspectives aux utilisateurs tout en créant des problématiques complexes de sécurité liées à l&amp;#39;hébergement de données sensibles sur un serveur distant qui n&amp;#39;est pas nécessairement de confiance. Un schéma de recherche sur données chiffrées propose à un client de stocker ses données sur un serveur en dehors de son périmètre de confiance tout en conservant la possibilité d&amp;#39;effectuer des recherches sur ces données. La propriété de sécurité que l&amp;#39;on cherche à atteindre est que le serveur distant opère sans découvrir ni les requêtes ni leurs réponses. On se propose dans cet exposé de présenter les différentes techniques permettant d&amp;#39;atteindre ces objectifs ainsi que la gageure que représente leur mise en œuvre efficace.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Séminaire Technique: Sécurité Logicielle Web</title>
+        <updated>2015-03-12T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/03/12/seminaire-tech-securite-logicielle-web</id>
+        <content type="html">&lt;h3&gt;Mr. Thomas LALLART (INRA - Avignon), Mr. Vincent MAZENOD (UDA - Clermont)&lt;/h3&gt;
+
+&lt;p&gt;A destination des développeurs-testeurs, des ASR, des chefs de projets et des utilisateurs d&amp;#39;applications Web, l&amp;#39;objectif de ce séminaire est d&amp;#39;échanger sur les notions de sécurité logicielle dans le monde du Web.&lt;/p&gt;
 </content>
     </entry>
     
