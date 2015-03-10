@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2015-03-07T21:29:06+01:00</updated>
+    <updated>2015-03-10T02:05:27+01:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -26,6 +26,36 @@
         <content type="html">&lt;p&gt;EMC vient à votre rencontre !&lt;/p&gt;
 
 &lt;p&gt;Au programme : des sessions de travail &amp;amp; ateliers pratiques interactifs sur les thématiques de l&amp;#39;Infrastructure Convergée, le Software-Defined Storage, la protection des données et la technologie Flash.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Soirée MongoDB</title>
+        <updated>2015-03-19T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/03/19/LavaJUG-MongoDB</id>
+        <content type="html">&lt;p&gt;Au programme :&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Présentation Générale de MongoDB :
+
+&lt;ul&gt;
+&lt;li&gt;Architecture&lt;/li&gt;
+&lt;li&gt;Langage de requête et d’agrégation&lt;/li&gt;
+&lt;li&gt;Haute disponibilité et montée en charge&lt;/li&gt;
+&lt;li&gt;Management&lt;/li&gt;
+&lt;li&gt;MongoDB 3.0 : quoi de neuf?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Développez votre première application :
+
+&lt;ul&gt;
+&lt;li&gt;Les Drivers : Java, … et autres&lt;/li&gt;
+&lt;li&gt;Les frameworks et outils de mappings&lt;/li&gt;
+&lt;li&gt;Bonnes et mauvaises pratiques&lt;/li&gt;
+&lt;li&gt;Modélisation des données&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Evidemment cette présentation sera l&amp;#39;occasion de poser questions, faire des commentaires autour du NoSQL et de MongoDB!&lt;/p&gt;
 </content>
     </entry>
     
