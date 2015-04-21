@@ -2,12 +2,22 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2015-03-31T18:33:29+02:00</updated>
+    <updated>2015-04-21T10:39:01+02:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Bigdata et intégration en entreprise</title>
+        <updated>2015-04-23T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2015/04/23/Bigdata-et-integration-en-entreprise</id>
+        <content type="html">&lt;p&gt;Au programme &amp;#58;&lt;/p&gt;
+
+&lt;p&gt;Jean-Baptiste, membre et leader de nombreux projets Apache, viendra nous présenter cet écosystème et sa fondation. Leader sur le projet, il nous présentera Apache Karaf, conteneur OSGi léger de renom, qui sors en version 3.0.x avec comme objectif l&amp;#39;intégration en entreprise. Il abordera également Apache Falcon, système de gestion de flux Big Data sur Hadoop.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>APIHour #14</title>
