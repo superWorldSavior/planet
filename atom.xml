@@ -2,12 +2,21 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2015-05-13T10:10:43+02:00</updated>
+    <updated>2015-05-13T10:12:48+02:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Des applications web polyglottes avec Vert.x</title>
+        <updated>2015-05-21T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2015/05/21/applications-concurrentes-polyglottes</id>
+        <content type="html">&lt;p&gt;Au programme &amp;#58;
+Vert.x est une plateforme pour créer des applications concurrentes, performantes et polyglottes sur la JVM. Cette session parlera des choix faits par Vert.x, de son modèle de concurrence et explique comment écrire des applications concurrentes et performantes de manière très simple. Nous aborderons quelques aspects clés de Vert.x comme le bus d&amp;#39;évènement distribué ou la haute disponibilité. La présentation parlera de Vert.x 3.0, de ses nouvelles fonctionnalités et montrera des exemples dans plusieurs languages tels que Java, Javascript, Python ou Ruby.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>Bigdata et intégration en entreprise</title>
