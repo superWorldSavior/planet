@@ -1,0 +1,344 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+    <title>Planet Clermont'ech</title>
+    <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
+    <updated>2015-05-13T10:09:38+02:00</updated>
+    <id>http://planet.clermontech.org/</id>
+    <author>
+        <name>Clermont'ech et al.</name>
+        <email>planet@clermontech.org</email>
+    </author>
+    
+    <entry>
+        <title>Bigdata et intégration en entreprise</title>
+        <updated>2015-04-23T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2015/04/23/Bigdata-et-integration-en-entreprise</id>
+        <content type="html">&lt;p&gt;Au programme &amp;#58;&lt;/p&gt;
+
+&lt;p&gt;Jean-Baptiste, membre et leader de nombreux projets Apache, viendra nous présenter cet écosystème et sa fondation. Leader sur le projet, il nous présentera Apache Karaf, conteneur OSGi léger de renom, qui sors en version 3.0.x avec comme objectif l&amp;#39;intégration en entreprise. Il abordera également Apache Falcon, système de gestion de flux Big Data sur Hadoop.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #14</title>
+        <updated>2015-04-16T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2015/04/16/apihour-14</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Sécurisation du cloud, schémas de recherches sur données chiffrées avancés</title>
+        <updated>2015-04-02T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2015/04/02/seminaire-confiance-numerique</id>
+        <content type="html">&lt;h3&gt;Alexandre Anzala-Yamajako Thales Communication &amp;amp; Security, Thales Paris, France&lt;/h3&gt;
+
+&lt;p&gt;L&amp;#39;augmentation des débits de connexion a permis l&amp;#39;avènement du stockage de données dans le cloud qui offre de nouvelles perspectives aux utilisateurs tout en créant des problématiques complexes de sécurité liées à l&amp;#39;hébergement de données sensibles sur un serveur distant qui n&amp;#39;est pas nécessairement de confiance. Un schéma de recherche sur données chiffrées propose à un client de stocker ses données sur un serveur en dehors de son périmètre de confiance tout en conservant la possibilité d&amp;#39;effectuer des recherches sur ces données. La propriété de sécurité que l&amp;#39;on cherche à atteindre est que le serveur distant opère sans découvrir ni les requêtes ni leurs réponses. On se propose dans cet exposé de présenter les différentes techniques permettant d&amp;#39;atteindre ces objectifs ainsi que la gageure que représente leur mise en œuvre efficace.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>EMC Redefine IT Tour 2015</title>
+        <updated>2015-04-02T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2015/04/02/emc-redefine-it-tour-2015</id>
+        <content type="html">&lt;p&gt;EMC vient à votre rencontre !&lt;/p&gt;
+
+&lt;p&gt;Au programme : des sessions de travail &amp;amp; ateliers pratiques interactifs sur les thématiques de l&amp;#39;Infrastructure Convergée, le Software-Defined Storage, la protection des données et la technologie Flash.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Soirée MongoDB</title>
+        <updated>2015-03-19T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/03/19/LavaJUG-MongoDB</id>
+        <content type="html">&lt;p&gt;Au programme :&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Présentation Générale de MongoDB :
+
+&lt;ul&gt;
+&lt;li&gt;Architecture&lt;/li&gt;
+&lt;li&gt;Langage de requête et d’agrégation&lt;/li&gt;
+&lt;li&gt;Haute disponibilité et montée en charge&lt;/li&gt;
+&lt;li&gt;Management&lt;/li&gt;
+&lt;li&gt;MongoDB 3.0 : quoi de neuf?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Développez votre première application :
+
+&lt;ul&gt;
+&lt;li&gt;Les Drivers : Java, … et autres&lt;/li&gt;
+&lt;li&gt;Les frameworks et outils de mappings&lt;/li&gt;
+&lt;li&gt;Bonnes et mauvaises pratiques&lt;/li&gt;
+&lt;li&gt;Modélisation des données&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Evidemment cette présentation sera l&amp;#39;occasion de poser questions, faire des commentaires autour du NoSQL et de MongoDB!&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Séminaire Technique: Sécurité Logicielle Web</title>
+        <updated>2015-03-12T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/03/12/seminaire-tech-securite-logicielle-web</id>
+        <content type="html">&lt;h3&gt;Mr. Thomas LALLART (INRA - Avignon), Mr. Vincent MAZENOD (UDA - Clermont)&lt;/h3&gt;
+
+&lt;p&gt;A destination des développeurs-testeurs, des ASR, des chefs de projets et des utilisateurs d&amp;#39;applications Web, l&amp;#39;objectif de ce séminaire est d&amp;#39;échanger sur les notions de sécurité logicielle dans le monde du Web.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Compromis temps-mémoire cryptanalytiques appliqués aux distributions non-uniformes</title>
+        <updated>2015-03-05T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/03/05/seminaire-confiance-numerique-2</id>
+        <content type="html">&lt;h3&gt;Gildas Avoine IRISA INSA Rennes&lt;/h3&gt;
+
+&lt;p&gt;Les compromis temps-mémoire cryptanalytiques ont été introduits par Martin Hellman en 1980 afin de réaliser des recherches exhaustives de clefs. Une avancée majeure a été présentée à Crypto 2003 par Philippe Oechslin, avec les tables arc-en-ciel qui améliorent significativement le travail original de Hellman. Après l&amp;#39;introduction des compromis temps-mémoire cryptanalytiques, nous présenterons durant cet exposé une technique pour améliorer l&amp;#39;efficacité des compromis lorsque l&amp;#39;on considère une distribution non-uniforme des secrets, par exemple pour casser des mots de passe.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>De la confidentialité des votes: nouvelles métriques et constructions</title>
+        <updated>2015-03-05T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/03/05/seminaire-confiance-numerique</id>
+        <content type="html">&lt;h3&gt;Olivier Pereira Université catholique de Louvain (UCL), Crypto group&lt;/h3&gt;
+
+&lt;p&gt;Le secret du vote est une exigence incontournable dans la plupart de nos élections. Ce secret n&amp;#39;est cependant jamais absolu : il va dépendre du format des bulletins de vote, des règles de dépouillement, du taux de participation des votants, et même de leurs choix. Qui plus est, ce secret peut être obtenu par des techniques très différentes, qui amènent généralement à différents compromis, et ce y compris dans les systèmes de vote dits &amp;quot;universellement vérifiables&amp;quot;. Dans cet exposé, nous introduisons différentes mesures de la confidentialité du vote, et illustrons leur usage dans des élections réelles. Nous introduirons aussi une nouvelle primitive cryptographique, les systèmes de chiffrement conforme à une mise en gage, et montrerons comment cette primitive peut être utilisée pour rendre des élections universellement vérifiables sans affaiblir le secret des votes, y compris à long terme.  Cet exposé est basé sur des travaux réalisés avec David Bernhard, Véronique Cortier, Edouard Cuvelier, Thomas Peters et Bogdan Warinschi.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #13</title>
+        <updated>2015-03-04T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/03/04/apihour-13</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>A la (re)découverte des langages fonctionnels</title>
+        <updated>2015-02-26T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/02/26/A-la-re-decouverte-des-langages-fonctionnels</id>
+        <content type="html">&lt;h3&gt;A la (re)découverte des langages fonctionnels&lt;/h3&gt;
+
+&lt;p&gt;Avec la redécouverte des langages &lt;strong&gt;fonctionnels&lt;/strong&gt;, poussés notamment par le besoin de &lt;strong&gt;parallélisme&lt;/strong&gt; sur les architectures &lt;strong&gt;multi-cœurs&lt;/strong&gt; et les problématiques de &lt;strong&gt;passage à l’échelle&lt;/strong&gt;, différents &lt;strong&gt;concepts&lt;/strong&gt;, mal connus du développeur non familiarisé avec l’approche fonctionnelle, deviennent &lt;strong&gt;populaires&lt;/strong&gt;.
+On entend ainsi de plus en plus parler de « &lt;strong&gt;lambda&lt;/strong&gt; », « &lt;strong&gt;closure&lt;/strong&gt; », voire même de « &lt;strong&gt;partialisation&lt;/strong&gt; », de « &lt;strong&gt;curryfication&lt;/strong&gt; » ou de « &lt;strong&gt;monade&lt;/strong&gt; ».
+Cette présentation reprendra donc les principaux concepts de la programmation fonctionnelle, afin d’essayer de &lt;strong&gt;mieux s’y retrouver&lt;/strong&gt; dans ce jargon et ces concepts. Elle s’efforcera aussi de montrer comment appliquer certains de ces concepts même dans des contextes non fonctionnels, et quels peuvent en être les bénéfices.&lt;/p&gt;
+
+&lt;h3&gt;Yannick Loiseau&lt;/h3&gt;
+
+&lt;p&gt;Pythonista, LOD and semantic web enthusiast, REST addict, geek&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Des signatures en blanc de toutes les couleurs</title>
+        <updated>2015-02-05T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/02/05/seminiaire-confiance-numerique</id>
+        <content type="html">&lt;p&gt;Les signatures en blanc ont trouvé de nombreuses applications quand de l&amp;#39;anonymat est nécessaire, on peut penser par exemple à des systèmes de monnaie électronique ou de vote électronique. Elles permettent à un utilisateur de faire signer un message à un signataire sans que celui-ci ne puisse obtenir d&amp;#39;information sur ce qu&amp;#39;il signe. Nous verrons comment l&amp;#39;approche autour des signatures en blanc a évolué, et présenterons comment obtenir un schéma à la fois optimal en terme de nombres d&amp;#39;étapes et efficace en terme de communication. Ensuite, nous montrerons comment un tel schéma peut être utiliser en vue d&amp;#39;application comme le vote, le paiement ou des opérations linéaires sur un réseau de senseurs.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Spring Boot et Spring 4</title>
+        <updated>2015-01-15T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/01/15/Spring-Boot-et-Spring-4.X</id>
+        <content type="html">&lt;h3&gt;Spring Boot&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://projects.spring.io/spring-boot/&quot;&gt;Spring Boot&lt;/a&gt; est une boîte à outils qui vous permet de développer et déployer vos applications Spring en un temps record, grâce a son approche orientée convention plutôt que configuration.
+Spring Boot inclus également &lt;em&gt;un mode de packaging qui permet de lancer son application avec une simple commande&lt;/em&gt; &lt;code&gt;java -jar application.jar&lt;/code&gt;&lt;em&gt;, des starters qui sont des dépendances spécialisée pour un usage donné, des endpoints automatiques orientés dev (/beans, /env, mapping) ou devops (/health), une configuration avancées très simple, tout est personnalisable, il propose un mécanisme d’activation de beans sur condition (par exemple présence d’une classe dans le classpath) très utile, &lt;a href=&quot;http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/&quot;&gt;guide de référence&lt;/a&gt;, configuration par défaut d’un certain nombre de paramètre via application.properties ou application.yml&lt;/em&gt;.
+En 2015, ne commencez pas un projet Web basé sur Spring sans Spring Boot, il n’y a &lt;strong&gt;aucune&lt;/strong&gt; contre-indication ! Alors venez voir cette présentation.&lt;/p&gt;
+
+&lt;h3&gt;Quoi de neuf dans Spring 4.0 et 4.1&lt;/h3&gt;
+
+&lt;p&gt;Spring 4.2 arrive dans quelques mois, cette présentation sera l’occasion de vous détailler les nouveautés apportées dans les dernières versions. Au menu : &lt;em&gt;support de Java 8, Amélioration du support JMS, Support complet de JCache (JSR-107), Compilateur SpEL, Nouveau mécanisme de gestion des ressources statiques, support des types génériques pour l&amp;#39;injection, annotation @Lazy améliorée, Support des JSONView, Support des Groovy markup templates, Support de JSONP, Configuration XML et JavaConfig : ViewController amélioré et ViewResolver, Support Websocket, SockJS et STOMP&lt;/em&gt;.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Séminaire Confiance Numérique</title>
+        <updated>2015-01-08T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/01/08/seminiaire-confiance-numerique</id>
+        <content type="html">&lt;p&gt;Lionel Rivière, SAFRAN Morpho, IDentity and Security Alliance (The Morpho and Télécom ParisTech Research Center) et Télécom ParisTech. Evaluation de la Robustesse des Implémentations Face aux Attaques par Injection de Faute par Simulation de Faute Embarqué.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #12</title>
+        <updated>2014-12-16T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2014/12/16/apihour-12</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Organisation, Méthode, Devops, Usines logicielles, ...</title>
+        <updated>2014-12-11T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2014/12/11/organisation-methode-devops-usines-logicielles</id>
+        <content type="html">&lt;p&gt;Dimitri Baeli (&lt;a href=&quot;https://www.lesfurets.com&quot;&gt;LesFurets.com&lt;/a&gt;) baigne dans l&amp;#39;univers &lt;strong&gt;Java&lt;/strong&gt; depuis plus de 10 ans. Sa passion pour les usines logicielles, l&amp;#39;organisation des développements et les méthodes agiles ne l&amp;#39;empêche pas de mettre les mains dans le cambouis pour créer des outils utiles aux développeurs.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>On The Path To Wisdom</title>
+        <updated>2014-11-19T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2014/11/19/on-the-path-to-wisdom</id>
+        <content type="html">&lt;p&gt;Bon, disons que vous voulez développer une &lt;strong&gt;application web&lt;/strong&gt; en &lt;strong&gt;Java&lt;/strong&gt;. Au début, tout va bien, c’est assez petit, relativement simple, un peu de &lt;strong&gt;REST&lt;/strong&gt;, un peu de &lt;strong&gt;JavaScript&lt;/strong&gt;, et puis... et puis ca dérape. Un truc par ci, une feature par la, une nouvelle techno ici. Les applications web sont comme les hamburgers, c’est bon, mais dès que ça devient trop gros, c’est galère à manger. Sans compter les tests, l’intégration continue, la mise en production... &lt;br&gt; &lt;strong&gt;Wisdom&lt;/strong&gt; (&lt;a href=&quot;http://wisdom-framework.org&quot;&gt;http://wisdom-framework.org&lt;/a&gt;) est un framework Web en Java. Et oui, encore un, mais il est &lt;strong&gt;modulaire&lt;/strong&gt; et &lt;strong&gt;dynamique&lt;/strong&gt;, et ça change les choses. Le serveur et vos applications sont comme un puzzle. Vous pouvez développer une pièce &lt;strong&gt;indépendamment&lt;/strong&gt; du reste, la &lt;strong&gt;tester&lt;/strong&gt;, l’intégrer, remplacer une pièce... Et ceci, dynamiquement, simplement et &lt;strong&gt;sans magie&lt;/strong&gt;. &lt;br&gt; Grace à un watch mode basé sur Maven, le développement est rapide, efficace et fun. Le serveur en lui même est basé sur OSGi sans pour autant en subir les inconvénients.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #11</title>
+        <updated>2014-10-15T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2014/10/15/apihour-11</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Java EE 7 , Jboss Forge , et le futur avec Java EE 8</title>
+        <updated>2014-10-02T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2014/10/02/Java-EE-7-Jboss-Forge-et-le-futur-avec-Java-EE-8</id>
+        <content type="html">&lt;p&gt;Au programme &amp;#58;
+Les &lt;strong&gt;nouveautés dans Java EE 7&lt;/strong&gt;, du &lt;strong&gt;développement rapide d&amp;#39;application avec&lt;a href=&quot;http://forge.jboss.org/&quot;&gt;Jboss Forge&lt;/a&gt;&lt;/strong&gt; et le &lt;strong&gt;futur avec Java EE 8&lt;/strong&gt;&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Le bon testeur il teste.... et le mauvais testeur il teste aussi !</title>
+        <updated>2014-09-11T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2014/09/11/Le-bon-testeur-il-teste-et-le-mauvais-testeur-il-teste-aussi</id>
+        <content type="html">&lt;p&gt;Plusieurs &lt;strong&gt;règles simples&lt;/strong&gt; permettent d&amp;#39;améliorer la &lt;strong&gt;qualité de ses tests&lt;/strong&gt;, certains outils ou &lt;strong&gt;librairies&lt;/strong&gt; (FestAssert, AssertJ, InfiniTest, DBSetup) vont vous simplifier la vie ! Tour d’horizon des &lt;strong&gt;bonnes pratiques&lt;/strong&gt; au programme, le tout en &lt;strong&gt;livecoding&lt;/strong&gt; ! Il est toujours bon de refaire un peu d’évangélisation sur les tests &amp;#58; &lt;strong&gt;débutants bienvenus&lt;/strong&gt; !&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #10</title>
+        <updated>2014-07-10T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2014/07/10/apihour-10</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Introduction à NodeJS</title>
+        <updated>2014-06-26T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2014/06/26/introduction-a-nodejs</id>
+        <content type="html">&lt;p&gt;Paypal, LinkedIn, Wallmart… Tout le monde parle de NodeJS et des gains en performances qui ont été permis.
+Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #9</title>
+        <updated>2014-05-28T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2014/05/28/apihour-9</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Développeur front-end en milieu hostile</title>
+        <updated>2014-05-22T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2014/05/22/Developpeur-front-end-en-milieu-hostile</id>
+        <content type="html">&lt;p&gt;Une présentation des &lt;strong&gt;outils&lt;/strong&gt; et &lt;strong&gt;bonnes pratiques&lt;/strong&gt; du développement &lt;strong&gt;front-end&lt;/strong&gt; pour survire dans un projet &lt;strong&gt;web&lt;/strong&gt;. De l&amp;#39;intégration continue à l&amp;#39;environnement de développement, en passant par la gestion de dépendances et la génération d&amp;#39;artifacts, tout y passe. Vous comprendrez pourquoi adopter ces nouveau outils, et comment les intégrer à vos processus actuels.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Apache Solr</title>
+        <updated>2014-04-10T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2014/04/10/Apache-Solr</id>
+        <content type="html">&lt;p&gt;Découvrez les outils &lt;strong&gt;open source&lt;/strong&gt; de &lt;strong&gt;Search&lt;/strong&gt; qui ont déjà &lt;strong&gt;convaincu&lt;/strong&gt; de nombreuses &lt;strong&gt;entreprises&lt;/strong&gt;, et qui est proposé par la fondation Apache &amp;#58; &lt;strong&gt;Lucene / Solr&lt;/strong&gt;. Dans la première partie de soirée, histoire de savoir de quoi on parle, Aurélien vous présentera les projets Lucene et Solr, leurs composants, leur &lt;strong&gt;architecture&lt;/strong&gt;, leurs &lt;strong&gt;features&lt;/strong&gt;, et on saupoudrera tout ça de &lt;strong&gt;scalabilité&lt;/strong&gt; avec &lt;strong&gt;SolrCloud&lt;/strong&gt;.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #8</title>
+        <updated>2014-04-08T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2014/04/08/apihour-8</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Java 8 : lambdas, Streams et Collectors, ...</title>
+        <updated>2014-03-13T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2014/03/13/Java 8-lambdas-Streams-et-Collectors-le-nouveau-visage-de-l-API-collection</id>
+        <content type="html">&lt;p&gt;L’API &lt;strong&gt;la plus utilisée&lt;/strong&gt; du JDK est sans aucun doute l’&lt;strong&gt;API Collection&lt;/strong&gt;. Brillamment conçue il y a un peu &lt;strong&gt;plus de 15 ans&lt;/strong&gt;, elle est encore aujourd’hui &lt;strong&gt;au coeur&lt;/strong&gt; de toutes les &lt;strong&gt;applications Java&lt;/strong&gt;. En 2004, elle a subi son premier lifting, avec l’introduction des &lt;strong&gt;génériques&lt;/strong&gt;. Cette mise à jour, bien qu’importante, n’a cependant pas modifié ses &lt;strong&gt;patterns d’utilisation&lt;/strong&gt;. Avec l’introduction des &lt;strong&gt;lambdas&lt;/strong&gt; en &lt;strong&gt;Java 8&lt;/strong&gt;, l’API Collection est à nouveau &lt;strong&gt;réécrite&lt;/strong&gt;, mais cette fois la situation est différente &amp;#58; ses patterns d’utilisation sont &lt;strong&gt;complètement changés&lt;/strong&gt;.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>JS101: Une introduction à JavaScript</title>
+        <updated>2014-03-11T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2014/03/11/js-101</id>
+        <content type="html">&lt;p&gt;Une introduction au langage, qui s’adresse aux débutants autant qu’aux personnes de niveau intermédiaire.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #7</title>
+        <updated>2014-02-26T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2014/02/26/apihour-7</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Lambda Bestiary avec Rémi Forax</title>
+        <updated>2014-01-16T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2014/01/16/Lambda-Bestiary-avec-Remi-Forax</id>
+        <content type="html">&lt;p&gt;Les &lt;strong&gt;lambdas&lt;/strong&gt; vont changer l&amp;#39;écosystème &lt;strong&gt;Java&lt;/strong&gt;, qu&amp;#39;on le veuille ou non, la révolution est en marche. Plutôt qu&amp;#39;un talk sur la syntaxe des lambdas, je vais expliquer pourquoi il y a des lambdas en Java, quelles sont les &lt;strong&gt;concepts&lt;/strong&gt; derrière les lambdas, pourquoi les lambdas sont ce qu&amp;#39;elles sont. Puis dans un second temps, je prendrais les principaux &lt;strong&gt;design patterns&lt;/strong&gt;, command, factory ou visiteur, je montrerais comment leurs implantations peut être simplifiés en utilisant des lambdas et je m&amp;#39;en servirais pour essayer de &lt;strong&gt;prédire l&amp;#39;avenir de Java&lt;/strong&gt;.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #6</title>
+        <updated>2013-12-17T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2013/12/17/apihour-6</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #5</title>
+        <updated>2013-11-29T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2013/11/29/apihour-5</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #4</title>
+        <updated>2013-09-12T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2013/09/12/apihour-4</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #3</title>
+        <updated>2013-07-03T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2013/07/03/apihour-3</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #2</title>
+        <updated>2013-05-23T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2013/05/23/apihour-2</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #1</title>
+        <updated>2013-04-03T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2013/04/03/apihour-1</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+</feed>
