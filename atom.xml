@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2015-05-20T12:00:27+02:00</updated>
+    <updated>2015-05-23T11:03:35+02:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -10,9 +10,17 @@
     </author>
     
     <entry>
+        <title>Citizenfour : Projection et débat à Clermont-Ferrand.</title>
+        <updated>2015-06-04T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2015/06/04/3-citizenfour-projection-debat</id>
+        <content type="html">&lt;p&gt;Les révélations d&amp;#39;Edward Snowden ont démontré que l&amp;#39;écoute massive de la population n&amp;#39;est plus de l&amp;#39;ordre du fantasme. Parce que nous pensons qu&amp;#39;être informé sur ce sujet est important, nous avons décidé d&amp;#39;organiser, en collaboration avec le cinéma Le Rio, une projection suivie d&amp;#39;un débat avec plusieurs invités dont Vincent Mazenod et Laurent Chemla. Après avoir recueilli les réactions qui feront suite au film, nous discuterons de la surveillance de masse, de la vie privée et, également, de l&amp;#39;actualité à l&amp;#39;étranger mais surtout en France.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
         <title>Google Safe Browsing: Security and Privacy</title>
         <updated>2015-06-04T00:00:00+02:00</updated>
-        <id>http://planet.clermontech.org/2015/06/04/seminaire-confiance-numerique-2</id>
+        <id>http://planet.clermontech.org/2015/06/04/2-seminaire-confiance-numerique</id>
         <content type="html">&lt;h3&gt;Amirit Kumar INRIA Privatics team, Grenoble,  France&lt;/h3&gt;
 
 &lt;p&gt;Phishing and malware websites are still duping unwary targets by infecting private computers or by committing cybercrimes such as fraud and identity theft. Safe Browsing is a defensive technology which identifies unsafe websites and notifies users in real-time of any potential harm of visiting a URL. All the established web service providers such as Google, Microsoft and Yandex offer Safe Browsing as feature in their software solutions and products. Hence, knowingly or unknowingly, you are certainly one of its users. The goal of this talk is to analyze the prevalent Safe Browsing architectures through a security and privacy point of view. While, some of these services such as Microsoft Smart Screen Filter are privacy unfriendly by design, i.e. without any effort, the backend server may track a user&amp;#39;s activity over the web. Other players such as Google and Yandex advert in their privacy policy that their Safe Browsing architecuture does allow them to track users. This talk would prove that their privacy policy is incorrect. On the security front, our findings are rather opposite. Microsoft Smart Screen Filter is a secure solution, while Google and Yandex Safe Browsing are insecure by design. We propose several denial-of-service attacks that simultaneously affect both the Safe Browsing servers and its clients. One of our attacks allows an adversary to force Google and Yandex to &amp;quot;blacklist&amp;quot; any target benign URL&lt;/p&gt;
@@ -22,7 +30,7 @@
     <entry>
         <title>Misères des antivirus et splendeurs des malwares.</title>
         <updated>2015-06-04T00:00:00+02:00</updated>
-        <id>http://planet.clermontech.org/2015/06/04/seminaire-confiance-numerique</id>
+        <id>http://planet.clermontech.org/2015/06/04/1-seminaire-confiance-numerique</id>
         <content type="html">&lt;h3&gt;Guillaume Bonfante, LORIA, Nancy,  France&lt;/h3&gt;
 
 &lt;p&gt;Ecrire un logiciel de détection de malware est une vraie gageure, de type indécidable. Mais ce qui rend les choses encore plus compliquées, c&amp;#39;est que les écrivains de virus emploient des techniques contre des heuristiques que pourraient employer des logiciels de détection. Je présenterai au travers de cas concrêts qui ont fait les titres des journaux des observations que nous avons faites au laboratoire. Et puis, pour garder le moral, je discute de quelques expériences amusantes sur les malware. &lt;/p&gt;
