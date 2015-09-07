@@ -2,12 +2,22 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2015-06-09T13:42:18+02:00</updated>
+    <updated>2015-09-07T10:08:16+02:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>ARPKI: Attack Resilient Public-Key Infrastructure.</title>
+        <updated>2015-09-03T00:00:00+02:00</updated>
+        <id>http://planet.clermontech.org/2015/09/03/1-seminaire-confiance-numerique</id>
+        <content type="html">&lt;h3&gt;Ralf Sasse Institute of Information Security, Department of Computer Science, ETH Zurich&lt;/h3&gt;
+
+&lt;p&gt;We present ARPKI, a public-key infrastructure that ensures that certificate-related operations, such as certificate issuance, update, revocation, and validation, are transparent and accountable. ARPKI is the first such infrastructure that systematically takes into account requirements identified by previous research. Moreover, ARPKI is co-designed with a formal model, and we verify its core security property using the Tamarin prover. We present a proof-of-concept implementation providing all features required for deployment. ARPKI efficiently handles the certification process with low overhead and without incurring additional latency to TLS. ARPKI offers extremely strong security guarantees, where compromising n-1 trusted signing and verifying entities is insufficient to launch an impersonation attack. Moreover, it deters misbehavior as all its operations are publicly visible. &lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>APIHour #15</title>
