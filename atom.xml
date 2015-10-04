@@ -2,12 +2,56 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2015-09-15T16:36:28+02:00</updated>
+    <updated>2015-10-04T19:09:57+02:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Menaces sur RSA et Diffie-Hellman: nouveaux algorithmes et nouveaux records.</title>
+        <updated>2015-11-05T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/11/05/2-seminaire-confiance-numerique</id>
+        <content type="html">&lt;h3&gt;Emmanuel Thomé, INRIA Equipe Caramel&lt;/h3&gt;
+
+&lt;p&gt;Le cryptosystème RSA repose sur la difficulté de la factorisation d&amp;#39;entiers. De nombreuses instances du protocole de Diffie-Hellman s&amp;#39;appuient sur la difficulté du logarithme discret dans les corps finis. Nous reviendrons sur les évolutions récentes de l&amp;#39;état de l&amp;#39;art de la cryptanalyse pour ces deux problèmes. Nous verrons comment l&amp;#39;hypothèse de leur difficulté se confronte à la réalité.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>SMS spam: a holistic view.</title>
+        <updated>2015-11-05T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/11/05/1-seminaire-confiance-numerique</id>
+        <content type="html">&lt;h3&gt;Slawomir Grzonkowski, Symantec Dublin&lt;/h3&gt;
+
+&lt;p&gt;Spam has been infesting our emails and Web experience for decades; distributing phishing scams, adult/dating scams, rogue security software, ransomware, money laundering and banking scams... the list goes on. Fortunately, in the last few years, user awareness has increased and email spam filters have become more effective, catching over 99% of spam. The downside is that spammers are constantly changing their techniques as well as looking for new target platforms and means of delivery, and as the world is going mobile so too are the spammers. Indeed, mobile messaging spam has become a real problem and is steadily increasing year-over-year. We have been analyzing SMS spam data from a large US carrier for over six months, and we have observed all these threats, and more, indiscriminately targeting large numbers of subscribers. In this paper, we touch on such questions as what is driving SMS spam, how do the spammers operate, what are their activity patterns and how have they evolved over time. We also discuss what types of challenges SMS spam has created in terms of filtering, as well as security.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>8th International Symposium on Foundations & Practice of Security</title>
+        <updated>2015-10-28T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/10/28/8th-International-Symposium-on-Foundations-Practice-of-Security</id>
+        <content type="html">&lt;p&gt;Protecting the communication and data infrastructure of an increasingly inter-connected world has become vital to the normal functioning of all aspects of our world. Security has emerged as an important scientific discipline whose many multifaceted complexities deserve the attention and synergy of the mathematical, computer science and engineering communities. After the previous meetings held in La Rochelle, Montréal, Grenoble, Toronto and Paris, this 8th edition of the FPS symposium will be held in Clermont-Ferrand, France. The aim of FPS is to discuss and exchange theoretical and practical ideas that address security issues in inter-connected systems. It aims to provide scientific presentations as well as to establish links, promote scientific collaboration, joint research programs, and student exchanges between institutions involved in this important and fast moving research field.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>8th International Symposium on Foundations & Practice of Security</title>
+        <updated>2015-10-27T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/10/27/8th-International-Symposium-on-Foundations-Practice-of-Security</id>
+        <content type="html">&lt;p&gt;Protecting the communication and data infrastructure of an increasingly inter-connected world has become vital to the normal functioning of all aspects of our world. Security has emerged as an important scientific discipline whose many multifaceted complexities deserve the attention and synergy of the mathematical, computer science and engineering communities. After the previous meetings held in La Rochelle, Montréal, Grenoble, Toronto and Paris, this 8th edition of the FPS symposium will be held in Clermont-Ferrand, France. The aim of FPS is to discuss and exchange theoretical and practical ideas that address security issues in inter-connected systems. It aims to provide scientific presentations as well as to establish links, promote scientific collaboration, joint research programs, and student exchanges between institutions involved in this important and fast moving research field.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>8th International Symposium on Foundations & Practice of Security</title>
+        <updated>2015-10-26T00:00:00+01:00</updated>
+        <id>http://planet.clermontech.org/2015/10/26/8th-International-Symposium-on-Foundations-Practice-of-Security</id>
+        <content type="html">&lt;p&gt;Protecting the communication and data infrastructure of an increasingly inter-connected world has become vital to the normal functioning of all aspects of our world. Security has emerged as an important scientific discipline whose many multifaceted complexities deserve the attention and synergy of the mathematical, computer science and engineering communities. After the previous meetings held in La Rochelle, Montréal, Grenoble, Toronto and Paris, this 8th edition of the FPS symposium will be held in Clermont-Ferrand, France. The aim of FPS is to discuss and exchange theoretical and practical ideas that address security issues in inter-connected systems. It aims to provide scientific presentations as well as to establish links, promote scientific collaboration, joint research programs, and student exchanges between institutions involved in this important and fast moving research field.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>22ème journée thématique de l'OzSSI Sud-Est</title>
