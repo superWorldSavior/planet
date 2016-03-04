@@ -2,12 +2,23 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2016-02-27T12:04:35+00:00</updated>
+    <updated>2016-03-04T18:29:25+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Libre en Fête 2016</title>
+        <updated>2016-03-19T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2016/03/19/Libre-en-Fete-2016</id>
+        <content type="html">&lt;p&gt;La journée &lt;strong&gt;Libre en Fête&lt;/strong&gt; est un journée de conférences et d’activités dédiée à la découverte du logiciel libre.   Durant toute la journée, des utilisateurs de &lt;strong&gt;logiciels libres&lt;/strong&gt; seront là pour vous les faire découvrir, utiliser, installer, partager et pour répondre à toutes vos questions.   N’hésitez pas à venir franchir le pas avec nous.
+Les sessions précédentes ayant été un réel succès, nous espérons vous voir nombreux cette année encore.
+L’accueil des participants se fera à partir de 9H30 et le programme des conférences et des activités sera mis à jour dans très peu de temps.
+Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&quot;http://www.agendadulibre.org/events/10865&quot;&gt;http://www.agendadulibre.org/events/10865&lt;/a&gt; et accéder aux vidéos des conférences précédentes sur la page YouTube du Laboratoire Linux de SUPINFO : &lt;a href=&quot;https://www.youtube.com/user/LaboLinux&quot;&gt;https://www.youtube.com/user/LaboLinux&lt;/a&gt;&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>APIHour #19</title>
