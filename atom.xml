@@ -2,12 +2,31 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2016-03-04T22:14:23+00:00</updated>
+    <updated>2016-04-12T07:21:37+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Secure Test and Debug For Lifetime Security of SoCs</title>
+        <updated>2016-05-12T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2016/05/12/2-seminaire-confiance-numerique</id>
+        <content type="html">&lt;h3 id=&quot;david-helyhttplcisgrenoble-inpfrmembres-david-hely--285755kjsprhlcis2ctsys-mem-lcsihttplcisgrenoble-inpfrle-laboratoire&quot;&gt;&lt;a href=&quot;http://lcis.grenoble-inp.fr/membres-+/david-hely--285755.kjsp?RH=LCIS2_CTSYS-MEM&quot;&gt;David Hely&lt;/a&gt;, &lt;a href=&quot;http://lcis.grenoble-inp.fr/le-laboratoire/&quot;&gt;LCSI&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Lifetime security of modern system on chip can be jeopardized by instruments dedicated to test and debug. On one hand, security objectives require that assets (third party IP, secure boot, DRM key…) remain confidential throughout the SoC life-cycle. On the other hand, the test circuitry and the SoC trace-based debug architecture expose values of internal signals that can leak the assets to third-parties. The inherent capability of test and debug instruments to observe the operating state of the SoC can be leveraged as a backdoor for attacks. In this talk, we show the different kinds of attacks which can be mounted based on these features through the whole SoC life cycle (from production to software application debug). We then present different countermeasures which aims at protecting assets belonging to the different stakeholders (IC designer, SoC integrator, Software developers…). Finally, we show how this circuitry dedicated to test and debug can be leverage on purpose during mission mode to offer security services to the software developers.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Control-Flow Recovery through Binary Code Analysis</title>
+        <updated>2016-05-12T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2016/05/12/1-seminaire-confiance-numerique</id>
+        <content type="html">&lt;h3 id=&quot;emmanuel-fleuryhttpwwwlabrifrpersofleury-labrihttpwwwlabrifr&quot;&gt;&lt;a href=&quot;http://www.labri.fr/perso/fleury/&quot;&gt;Emmanuel Fleury&lt;/a&gt;, &lt;a href=&quot;http://www.labri.fr/&quot;&gt;Labri&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Binary code analysis is required when you only have access to program’s binary code, or when you do not trust the compile chain that you use. In the last two decades, this field has made big progress but, still, it remains confidential and most of the people will just consider it as classical program analysis. In fact, binary analysis induces a lot of practical and theoritical problems which are specific to binary code analysis.
+I will present the context of binary analysis and develop the specific problems that are linked to this topic (dynamic jumps, loop unwinding, self-modifying code, …). Then, I will introduce our intermediate representation (microcode) and explain our main algorithm to rebuild the control flow of a binary program.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>Libre en Fête 2016</title>
