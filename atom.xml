@@ -2,12 +2,32 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2016-05-27T12:53:24+00:00</updated>
+    <updated>2016-05-27T12:56:54+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Rencontre 2016 AuDACES</title>
+        <updated>2016-05-31T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2016/05/31/audaces</id>
+        <content type="html">&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cette rencontre entre les acteurs des organismes de recherche scientifique (INRA, IRSTEA, CNRS, Universités, grandes écoles, MICHELIN, Limagrain, …) est une journée d’échange et de partage dont le but est de créer des synergies en Auvergne. * Sécurité, PKI, Bitcoin&lt;/td&gt;
+      &lt;td&gt;Pascal Lafourcade (LIMOS/UdA) * Docker et rkt containerization linux et applications en astro/HEP&lt;/td&gt;
+      &lt;td&gt;Sébastien Binet (LPC/CNRS) * NBIC Nanotechnologies, biotechnologies, informatique et sciences cognitives&lt;/td&gt;
+      &lt;td&gt;David Hill (LIMOS/UBP) * Fat&amp;amp;MuscleDB intégration de données “omics” provenant du tissu adipeux ou musculaire&lt;/td&gt;
+      &lt;td&gt;Jérémy Tournayre (UMRH/INRA) * CRRI, Infrastructure mise en œuvre&lt;/td&gt;
+      &lt;td&gt;Antoine Mahul (CRRI/Clermont université) * How Braincube build Braincube&lt;/td&gt;
+      &lt;td&gt;Pierre Colomb (Braincube)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    </entry>
     
     <entry>
         <title>PHP Tour Clermont-Ferrand 2016, 23-24 mai 2016</title>
