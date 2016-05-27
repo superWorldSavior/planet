@@ -2,12 +2,21 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2016-05-09T08:19:31+00:00</updated>
+    <updated>2016-05-27T12:48:47+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>PHP Tour Clermont-Ferrand 2016, 23-24 mai 2016</title>
+        <updated>2016-05-23T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2016/05/23/phptour</id>
+        <content type="html">&lt;p&gt;Deux jours pour réunir toute la communauté PHP en plein coeur de la France, deux jours pour échanger, se perfectionner, découvrir de nouvelles fonctionnalités ou approfondir ses connaissances PHP.
+La performance sera le sujet de prédilection du PHP Tour Clermont-Ferrand 2016. Au coeur de PHP7, la performance est devenue un besoin pour tous les développeurs face à la complexité grandissante des applications développées en PHP.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>APIHour #20</title>
