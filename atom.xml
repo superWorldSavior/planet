@@ -2,12 +2,52 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2016-06-28T20:31:40+00:00</updated>
+    <updated>2016-12-18T12:49:38+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>APIHour #26</title>
+        <updated>2017-03-29T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2017/03/29/apihour-26</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre. Le lieu sera annoncé deux semaines avant la soirée&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #25</title>
+        <updated>2017-02-01T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2017/02/01/apihour-25</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre. Le lieu sera annoncé deux semaines avant la soirée&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #24</title>
+        <updated>2016-12-14T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2016/12/14/apihour-24</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #23</title>
+        <updated>2016-11-07T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2016/11/07/apihour-23</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>APIHour #22</title>
+        <updated>2016-09-15T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2016/09/15/apihour-22</id>
+        <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>APIHour #21</title>
