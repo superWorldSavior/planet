@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2017-05-03T06:49:14+00:00</updated>
+    <updated>2017-05-03T06:51:44+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -33,7 +33,7 @@
 
 &lt;p&gt;Pour cette soirée, nous vous proposons de découvrir en avant première une conférence retenue pour le &lt;a href=&quot;http://event.afup.org 2017&quot;&gt;PHP Tour&lt;/a&gt; à Nantes.&lt;/p&gt;
 
-&lt;h2 id=&quot;synchroniser-ses-applis-simplement-avec-akeneobatch&quot;&gt;Synchroniser ses applis simplement avec akeneo/batch&lt;/h2&gt;
+&lt;h3 id=&quot;synchroniser-ses-applis-simplement-avec-akeneobatch&quot;&gt;Synchroniser ses applis simplement avec akeneo/batch&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/gplanchat&quot;&gt;Grégory Planchat&lt;/a&gt;&lt;/p&gt;
 
