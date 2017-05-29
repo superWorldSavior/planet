@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2017-05-29T11:05:29+00:00</updated>
+    <updated>2017-05-29T14:31:59+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -13,6 +13,7 @@
         <title>APIHour #29</title>
         <updated>2017-07-21T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2017/07/21/apihour-29</id>
+        <link href="http://planet.clermontech.org/2017/07/21/apihour-29" />
         <content type="html">&lt;p&gt;API Hour particulier. Pour une fois nous allons organiser un API Hour pendant l’été et pour cette soirée nous voulons trouver un lieu en plein air, que chacun puisse venir accompagner avec ses amis ou famille et que des présentations en mode lightning talk (5 à 7 min) soient réalisées.&lt;/p&gt;
 </content>
     </entry>
@@ -21,6 +22,7 @@
         <title>APIHour #28</title>
         <updated>2017-06-28T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2017/06/28/apihour-28</id>
+        <link href="http://planet.clermontech.org/2017/06/28/apihour-28" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre. Le lieu sera annoncé deux semaines avant la soirée&lt;/p&gt;
 </content>
     </entry>
@@ -29,6 +31,7 @@
         <title>clermontech.php #1</title>
         <updated>2017-05-11T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2017/05/11/clermontech-php-1</id>
+        <link href="http://planet.clermontech.org/2017/05/11/clermontech-php-1" />
         <content type="html">&lt;p&gt;Première soirée de conférences dédiées à un langage, organisée par Clermont’ech. Clermontech.php ouvre le bal en partenariat avec l’&lt;a href=&quot;http://afup.org&quot;&gt;AFUP&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Pour cette soirée, nous vous proposons de découvrir en avant première une conférence retenue pour le &lt;a href=&quot;http://event.afup.org 2017&quot;&gt;PHP Tour&lt;/a&gt; à Nantes.&lt;/p&gt;
@@ -45,6 +48,7 @@
         <title>APIHour #27</title>
         <updated>2017-05-04T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2017/05/04/apihour-27</id>
+        <link href="http://planet.clermontech.org/2017/05/04/apihour-27" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -53,6 +57,7 @@
         <title>APIHour #26</title>
         <updated>2017-03-27T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2017/03/27/apihour-26</id>
+        <link href="http://planet.clermontech.org/2017/03/27/apihour-26" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre. Le lieu sera annoncé deux semaines avant la soirée&lt;/p&gt;
 </content>
     </entry>
@@ -61,6 +66,7 @@
         <title>APIHour #25</title>
         <updated>2017-02-01T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2017/02/01/apihour-25</id>
+        <link href="http://planet.clermontech.org/2017/02/01/apihour-25" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre. Le lieu sera annoncé deux semaines avant la soirée&lt;/p&gt;
 </content>
     </entry>
@@ -69,6 +75,7 @@
         <title>APIHour #24</title>
         <updated>2016-12-14T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/12/14/apihour-24</id>
+        <link href="http://planet.clermontech.org/2016/12/14/apihour-24" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -77,6 +84,7 @@
         <title>APIHour #23</title>
         <updated>2016-11-07T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/11/07/apihour-23</id>
+        <link href="http://planet.clermontech.org/2016/11/07/apihour-23" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -85,6 +93,7 @@
         <title>APIHour #22</title>
         <updated>2016-09-15T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/09/15/apihour-22</id>
+        <link href="http://planet.clermontech.org/2016/09/15/apihour-22" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -93,6 +102,7 @@
         <title>APIHour #21</title>
         <updated>2016-07-07T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/07/07/apihour-21</id>
+        <link href="http://planet.clermontech.org/2016/07/07/apihour-21" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -101,6 +111,7 @@
         <title>Rencontre 2016 AuDACES</title>
         <updated>2016-05-31T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/05/31/audaces</id>
+        <link href="http://planet.clermontech.org/2016/05/31/audaces" />
         <content type="html">&lt;p&gt;Cette rencontre entre les acteurs des organismes de recherche scientifique (INRA, IRSTEA, CNRS, Universités, grandes écoles, MICHELIN, Limagrain, …) est une journée d’échange et de partage dont le but est de créer des synergies en Auvergne.&lt;/p&gt;
 
 &lt;table&gt;
@@ -138,6 +149,7 @@
         <title>PHP Tour Clermont-Ferrand 2016, 23-24 mai 2016</title>
         <updated>2016-05-23T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/05/23/phptour</id>
+        <link href="http://planet.clermontech.org/2016/05/23/phptour" />
         <content type="html">&lt;p&gt;Deux jours pour réunir toute la communauté PHP en plein coeur de la France, deux jours pour échanger, se perfectionner, découvrir de nouvelles fonctionnalités ou approfondir ses connaissances PHP.
 La performance sera le sujet de prédilection du PHP Tour Clermont-Ferrand 2016. Au coeur de PHP7, la performance est devenue un besoin pour tous les développeurs face à la complexité grandissante des applications développées en PHP.&lt;/p&gt;
 </content>
@@ -147,6 +159,7 @@ La performance sera le sujet de prédilection du PHP Tour Clermont-Ferrand 2016.
         <title>APIHour #20</title>
         <updated>2016-05-17T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/05/17/apihour-20</id>
+        <link href="http://planet.clermontech.org/2016/05/17/apihour-20" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -155,6 +168,7 @@ La performance sera le sujet de prédilection du PHP Tour Clermont-Ferrand 2016.
         <title>Secure Test and Debug For Lifetime Security of SoCs</title>
         <updated>2016-05-12T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/05/12/2-seminaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2016/05/12/2-seminaire-confiance-numerique" />
         <content type="html">&lt;h3 id=&quot;david-helyhttplcisgrenoble-inpfrmembres-david-hely--285755kjsprhlcis2ctsys-mem-lcsihttplcisgrenoble-inpfrle-laboratoire&quot;&gt;&lt;a href=&quot;http://lcis.grenoble-inp.fr/membres-+/david-hely--285755.kjsp?RH=LCIS2_CTSYS-MEM&quot;&gt;David Hely&lt;/a&gt;, &lt;a href=&quot;http://lcis.grenoble-inp.fr/le-laboratoire/&quot;&gt;LCSI&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Lifetime security of modern system on chip can be jeopardized by instruments dedicated to test and debug. On one hand, security objectives require that assets (third party IP, secure boot, DRM key…) remain confidential throughout the SoC life-cycle. On the other hand, the test circuitry and the SoC trace-based debug architecture expose values of internal signals that can leak the assets to third-parties. The inherent capability of test and debug instruments to observe the operating state of the SoC can be leveraged as a backdoor for attacks. In this talk, we show the different kinds of attacks which can be mounted based on these features through the whole SoC life cycle (from production to software application debug). We then present different countermeasures which aims at protecting assets belonging to the different stakeholders (IC designer, SoC integrator, Software developers…). Finally, we show how this circuitry dedicated to test and debug can be leverage on purpose during mission mode to offer security services to the software developers.&lt;/p&gt;
 </content>
@@ -164,6 +178,7 @@ La performance sera le sujet de prédilection du PHP Tour Clermont-Ferrand 2016.
         <title>Control-Flow Recovery through Binary Code Analysis</title>
         <updated>2016-05-12T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/05/12/1-seminaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2016/05/12/1-seminaire-confiance-numerique" />
         <content type="html">&lt;h3 id=&quot;emmanuel-fleuryhttpwwwlabrifrpersofleury-labrihttpwwwlabrifr&quot;&gt;&lt;a href=&quot;http://www.labri.fr/perso/fleury/&quot;&gt;Emmanuel Fleury&lt;/a&gt;, &lt;a href=&quot;http://www.labri.fr/&quot;&gt;Labri&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Binary code analysis is required when you only have access to program’s binary code, or when you do not trust the compile chain that you use. In the last two decades, this field has made big progress but, still, it remains confidential and most of the people will just consider it as classical program analysis. In fact, binary analysis induces a lot of practical and theoritical problems which are specific to binary code analysis.
 I will present the context of binary analysis and develop the specific problems that are linked to this topic (dynamic jumps, loop unwinding, self-modifying code, …). Then, I will introduce our intermediate representation (microcode) and explain our main algorithm to rebuild the control flow of a binary program.&lt;/p&gt;
@@ -174,6 +189,7 @@ I will present the context of binary analysis and develop the specific problems 
         <title>Libre en Fête 2016</title>
         <updated>2016-03-19T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/03/19/Libre-en-Fete-2016</id>
+        <link href="http://planet.clermontech.org/2016/03/19/Libre-en-Fete-2016" />
         <content type="html">&lt;p&gt;La journée &lt;strong&gt;Libre en Fête&lt;/strong&gt; est un journée de conférences et d’activités dédiée à la découverte du logiciel libre.   Durant toute la journée, des utilisateurs de &lt;strong&gt;logiciels libres&lt;/strong&gt; seront là pour vous les faire découvrir, utiliser, installer, partager et pour répondre à toutes vos questions.   N’hésitez pas à venir franchir le pas avec nous.
 Les sessions précédentes ayant été un réel succès, nous espérons vous voir nombreux cette année encore.
 L’accueil des participants se fera à partir de 9H30 et le programme des conférences et des activités sera mis à jour dans très peu de temps.
@@ -185,6 +201,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>APIHour #19</title>
         <updated>2016-03-01T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/03/01/apihour-19</id>
+        <link href="http://planet.clermontech.org/2016/03/01/apihour-19" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -193,6 +210,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>Apérobot 3.0</title>
         <updated>2016-02-10T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/02/10/aperobot-3</id>
+        <link href="http://planet.clermontech.org/2016/02/10/aperobot-3" />
         <content type="html">&lt;p&gt;L’association Robotips début l’année 2016 en organisant pour la troisième fois une soirée dediée aux passionnés et aux curieux de la robotique. Venez découvrir leur projets et partager les votres.&lt;/p&gt;
 
 &lt;p&gt;Au cours de cette soirée, nous accueillerons Radio Campus, la radio associative de Clermont-Ferrand, pour l’enregistrement de l’émission mensuelle Système Co dédiée à la robotique et à l’intelligence artificielle.&lt;/p&gt;
@@ -203,6 +221,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>Assurer la cybersécurité de son organisation par la gestion des risques.</title>
         <updated>2016-02-04T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/02/04/2-seminaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2016/02/04/2-seminaire-confiance-numerique" />
         <content type="html">&lt;h3 id=&quot;mathieu-charbois-directeur-dagence-fidens&quot;&gt;Mathieu CHARBOIS, Directeur d’agence Fidens&lt;/h3&gt;
 &lt;p&gt;« Toute bonne mesure de sécurisation doit être proportionnée au risque encouru ». « Toute démarche de cybersécurité doit être systématiquement précédée ou accompagnée d’une analyse des risques ». La communauté de la cybersécurité française comme internationale s’accorde sur ces points. Cependant et malgré cette convergence de points de vue, encore peu d’organisations du secteur privé comme du public ont réussi à mettre en place une démarche réellement opérationnelle de cybersécurité qui soit fondée sur ces principes de gestion des risques et de leur arbitrage dans la durée. Dans cette présentation, nous vous montrerons comment, avec un peu d’outillage et de méthode, il est possible de répondre aux vrais besoins de pilotage de la cybersécurité et comment il est possible d’impliquer la Direction Générale dans cette démarche de façon efficace et pragmatique.&lt;/p&gt;
 </content>
@@ -212,6 +231,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>Verification of cryptographic protocols : from authentication to privacy.</title>
         <updated>2016-02-04T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/02/04/1-seminaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2016/02/04/1-seminaire-confiance-numerique" />
         <content type="html">&lt;h3 id=&quot;steve-kremer-inria-nancy-grand-est--loria-cassis-team&quot;&gt;Steve Kremer, Inria Nancy Grand-Est &amp;amp; Loria, Cassis team&lt;/h3&gt;
 &lt;p&gt;Formal, symbolic techniques for modelling and automatically analyzing security protocols are extremely successful and were able to discover many security flaws. Initially, these techniques were mainly developed to analyze authentication and confidentiality properties. Both these properties are trace properties and efficient tools for their verification exist. In more recent years anonymity-like properties have received increasing interest. Many flavors of anonymity properties are naturally expressed in terms of indistinguishability and modeled as an observational equivalence in process calculi. We will present recent advances in the verification of such indistinguishability properties and illustrate their usefulness on examples from electronic voting.&lt;/p&gt;
 </content>
@@ -221,6 +241,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>APIHour #18</title>
         <updated>2016-01-19T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2016/01/19/apihour-18</id>
+        <link href="http://planet.clermontech.org/2016/01/19/apihour-18" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -229,6 +250,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>APIHour #17</title>
         <updated>2015-11-10T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/11/10/apihour-17</id>
+        <link href="http://planet.clermontech.org/2015/11/10/apihour-17" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -237,6 +259,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>Menaces sur RSA et Diffie-Hellman: nouveaux algorithmes et nouveaux records.</title>
         <updated>2015-11-05T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/11/05/2-seminaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2015/11/05/2-seminaire-confiance-numerique" />
         <content type="html">&lt;h3 id=&quot;emmanuel-thom-inria-equipe-caramel&quot;&gt;Emmanuel Thomé, INRIA Equipe Caramel&lt;/h3&gt;
 &lt;p&gt;Le cryptosystème RSA repose sur la difficulté de la factorisation d’entiers. De nombreuses instances du protocole de Diffie-Hellman s’appuient sur la difficulté du logarithme discret dans les corps finis. Nous reviendrons sur les évolutions récentes de l’état de l’art de la cryptanalyse pour ces deux problèmes. Nous verrons comment l’hypothèse de leur difficulté se confronte à la réalité.&lt;/p&gt;
 </content>
@@ -246,6 +269,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>SMS spam: a holistic view.</title>
         <updated>2015-11-05T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/11/05/1-seminaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2015/11/05/1-seminaire-confiance-numerique" />
         <content type="html">&lt;h3 id=&quot;slawomir-grzonkowski-symantec-dublin&quot;&gt;Slawomir Grzonkowski, Symantec Dublin&lt;/h3&gt;
 &lt;p&gt;Spam has been infesting our emails and Web experience for decades; distributing phishing scams, adult/dating scams, rogue security software, ransomware, money laundering and banking scams… the list goes on. Fortunately, in the last few years, user awareness has increased and email spam filters have become more effective, catching over 99% of spam. The downside is that spammers are constantly changing their techniques as well as looking for new target platforms and means of delivery, and as the world is going mobile so too are the spammers. Indeed, mobile messaging spam has become a real problem and is steadily increasing year-over-year. We have been analyzing SMS spam data from a large US carrier for over six months, and we have observed all these threats, and more, indiscriminately targeting large numbers of subscribers. In this paper, we touch on such questions as what is driving SMS spam, how do the spammers operate, what are their activity patterns and how have they evolved over time. We also discuss what types of challenges SMS spam has created in terms of filtering, as well as security.&lt;/p&gt;
 </content>
@@ -255,6 +279,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>8th International Symposium on Foundations &amp; Practice of Security</title>
         <updated>2015-10-28T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/10/28/8th-International-Symposium-on-Foundations-Practice-of-Security</id>
+        <link href="http://planet.clermontech.org/2015/10/28/8th-International-Symposium-on-Foundations-Practice-of-Security" />
         <content type="html">&lt;p&gt;Protecting the communication and data infrastructure of an increasingly inter-connected world has become vital to the normal functioning of all aspects of our world. Security has emerged as an important scientific discipline whose many multifaceted complexities deserve the attention and synergy of the mathematical, computer science and engineering communities. After the previous meetings held in La Rochelle, Montréal, Grenoble, Toronto and Paris, this 8th edition of the FPS symposium will be held in Clermont-Ferrand, France. The aim of FPS is to discuss and exchange theoretical and practical ideas that address security issues in inter-connected systems. It aims to provide scientific presentations as well as to establish links, promote scientific collaboration, joint research programs, and student exchanges between institutions involved in this important and fast moving research field.&lt;/p&gt;
 </content>
     </entry>
@@ -263,6 +288,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>8th International Symposium on Foundations &amp; Practice of Security</title>
         <updated>2015-10-27T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/10/27/8th-International-Symposium-on-Foundations-Practice-of-Security</id>
+        <link href="http://planet.clermontech.org/2015/10/27/8th-International-Symposium-on-Foundations-Practice-of-Security" />
         <content type="html">&lt;p&gt;Protecting the communication and data infrastructure of an increasingly inter-connected world has become vital to the normal functioning of all aspects of our world. Security has emerged as an important scientific discipline whose many multifaceted complexities deserve the attention and synergy of the mathematical, computer science and engineering communities. After the previous meetings held in La Rochelle, Montréal, Grenoble, Toronto and Paris, this 8th edition of the FPS symposium will be held in Clermont-Ferrand, France. The aim of FPS is to discuss and exchange theoretical and practical ideas that address security issues in inter-connected systems. It aims to provide scientific presentations as well as to establish links, promote scientific collaboration, joint research programs, and student exchanges between institutions involved in this important and fast moving research field.&lt;/p&gt;
 </content>
     </entry>
@@ -271,6 +297,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>8th International Symposium on Foundations &amp; Practice of Security</title>
         <updated>2015-10-26T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/10/26/8th-International-Symposium-on-Foundations-Practice-of-Security</id>
+        <link href="http://planet.clermontech.org/2015/10/26/8th-International-Symposium-on-Foundations-Practice-of-Security" />
         <content type="html">&lt;p&gt;Protecting the communication and data infrastructure of an increasingly inter-connected world has become vital to the normal functioning of all aspects of our world. Security has emerged as an important scientific discipline whose many multifaceted complexities deserve the attention and synergy of the mathematical, computer science and engineering communities. After the previous meetings held in La Rochelle, Montréal, Grenoble, Toronto and Paris, this 8th edition of the FPS symposium will be held in Clermont-Ferrand, France. The aim of FPS is to discuss and exchange theoretical and practical ideas that address security issues in inter-connected systems. It aims to provide scientific presentations as well as to establish links, promote scientific collaboration, joint research programs, and student exchanges between institutions involved in this important and fast moving research field.&lt;/p&gt;
 </content>
     </entry>
@@ -279,6 +306,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>Docker &amp; Changing the wheel of a moving car - faire évoluer l'infra sans interruption</title>
         <updated>2015-10-15T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/10/15/docker-ci</id>
+        <link href="http://planet.clermontech.org/2015/10/15/docker-ci" />
         <content type="html">&lt;p&gt;Chez &lt;strong&gt;CloudBees&lt;/strong&gt; nous avons muté au cours des quatre dernières années de l’état de startup décousue à celui d’un système bien rôdé. Certaines décisions techniques initiales ont été amèrement regrettées, d’autres souffrent simplement d’obsolescence. Dans les deux cas, nous avons du gérer l’évolution du système sans que l’utilisateur n’en souffre : avec une couverture mondiale, il n’y a &lt;strong&gt;aucune downtime possible&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Pour illustrer ce challenge avec quelques exemples je vais présenter la migration de l’infrastructure de &lt;strong&gt;build-on-demand&lt;/strong&gt; vers une solution &lt;strong&gt;multi-tenant&lt;/strong&gt;, ainsi que le passage d’une solution conçue sur mesure avec LXC à des conteneurs &lt;strong&gt;Docker&lt;/strong&gt; - dans les deux cas une transition en douceur sur plusieurs mois sans que les utilisateurs n’aient à s’en soucier.&lt;/p&gt;
@@ -289,6 +317,7 @@ Vous pouvez aussi suivre l’événement sur l’agenda du libre : &lt;a href=&q
         <title>22ème journée thématique de l'OzSSI Sud-Est</title>
         <updated>2015-10-06T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/10/06/Journee-thematique-de-lOzSSI-Sud-Est</id>
+        <link href="http://planet.clermontech.org/2015/10/06/Journee-thematique-de-lOzSSI-Sud-Est" />
         <content type="html">&lt;p&gt;Conférence animée par des experts SSI. Programme : * Actualité ANSSI * La problématique USB * Simplification des achats des prestations intellectuelles en sécurité des SI * Architecture PKI et communications sécurisées * IT/OT, mariez-les en toute sécurité * Etat de la menace * Retour d’expérience d’un industriel sur la cybersécurité et solutions mises en oeuvre * Malware, phishing, APT, fuite de données : comment anticiper et faire face à ces menaces ?
 Inscription avant le 30/09 par e-mail : ozssi-zdse@interieur.gouv.fr&lt;/p&gt;
 </content>
@@ -298,6 +327,7 @@ Inscription avant le 30/09 par e-mail : ozssi-zdse@interieur.gouv.fr&lt;/p&gt;
         <title>Convention over configuration: the Gradle way</title>
         <updated>2015-09-23T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/09/23/the-gradle-way</id>
+        <link href="http://planet.clermontech.org/2015/09/23/the-gradle-way" />
         <content type="html">&lt;p&gt;Au programme : On entend souvent dire que Gradle est un système de build impératif. S’il est correct de dire que Gradle permet de faire de l’impératif dans une build, ça n’est certainement pas le point clé. Au contraire, nous expliquerons comment Gradle hérite des bons aspects de Maven tout en généralisant le concept, et en vous offrant la possibilité de définir vos propres conventions, particulièrement utile en mode corporate. Plugins, tâches, séparation des aspects, wrapper, autant de concepts qui vous seront expliqués et vous aideront à bien démarrer et concevoir des builds idiomatiques, propres et bénéficiant des avantages d’un outil de build moderne.&lt;/p&gt;
 </content>
     </entry>
@@ -306,6 +336,7 @@ Inscription avant le 30/09 par e-mail : ozssi-zdse@interieur.gouv.fr&lt;/p&gt;
         <title>APIHour #16</title>
         <updated>2015-09-17T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/09/17/apihour-16</id>
+        <link href="http://planet.clermontech.org/2015/09/17/apihour-16" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -314,6 +345,7 @@ Inscription avant le 30/09 par e-mail : ozssi-zdse@interieur.gouv.fr&lt;/p&gt;
         <title>Plateforme pour l’exécution contrôlée de logiciels malveillants.</title>
         <updated>2015-09-03T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/09/03/2-seminaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2015/09/03/2-seminaire-confiance-numerique" />
         <content type="html">&lt;h3 id=&quot;philippe-owezarski-laas&quot;&gt;Philippe Owezarski, LAAS&lt;/h3&gt;
 &lt;p&gt;L’Internet, fort de son succès populaire, n’est pas un environnement sûr. Il pèse sur l’Internet et ses utilisateurs un risque qui augmente au fur et à mesure que l’économie numérique se développe. Ce risque se présente souvent sous la forme de botnets, de larges ensembles de machines corrompues par des pirates qui peuvent les utiliser à dessein pour lancer des attaques massives, des campagnes de spam, etc. Pour lutter de façon proactive contre ces menaces, il est essentiel d’analyser le trafic malveillant dans l’Internet correspondant à la diffusion et au mode d’action des virus, vers ou autres maliciels qui servent à la constitution des botnets. Cet exposé décrit donc une plateforme de collecte et d’exécution de ces maliciels qui permet d’observer et analyser l’activité illégitime de l’Internet. Toutefois, la législation en vigueur rend responsable le propriétaire d’une machine de tout le trafic généré. Aussi, cette plateforme doit contrôler le trafic qu’elle génère. Un élément essentiel de cette plateforme est donc un nouveau type de pare-feu adapté à l’analyse de toutes les formes de communications, et qui ne va laisser passer que les paquets ne présentant aucun danger. L’exposé présentera les composants de la plateforme et détaillera le pare-feu. Il illustrera également son fonctionnement et proposera une évaluation de ses performances.&lt;/p&gt;
 </content>
@@ -323,6 +355,7 @@ Inscription avant le 30/09 par e-mail : ozssi-zdse@interieur.gouv.fr&lt;/p&gt;
         <title>ARPKI: Attack Resilient Public-Key Infrastructure.</title>
         <updated>2015-09-03T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/09/03/1-seminaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2015/09/03/1-seminaire-confiance-numerique" />
         <content type="html">&lt;h3 id=&quot;ralf-sasse-institute-of-information-security-department-of-computer-science-eth-zurich&quot;&gt;Ralf Sasse Institute of Information Security, Department of Computer Science, ETH Zurich&lt;/h3&gt;
 &lt;p&gt;We present ARPKI, a public-key infrastructure that ensures that certificate-related operations, such as certificate issuance, update, revocation, and validation, are transparent and accountable. ARPKI is the first such infrastructure that systematically takes into account requirements identified by previous research. Moreover, ARPKI is co-designed with a formal model, and we verify its core security property using the Tamarin prover. We present a proof-of-concept implementation providing all features required for deployment. ARPKI efficiently handles the certification process with low overhead and without incurring additional latency to TLS. ARPKI offers extremely strong security guarantees, where compromising n-1 trusted signing and verifying entities is insufficient to launch an impersonation attack. Moreover, it deters misbehavior as all its operations are publicly visible.&lt;/p&gt;
 </content>
@@ -332,6 +365,7 @@ Inscription avant le 30/09 par e-mail : ozssi-zdse@interieur.gouv.fr&lt;/p&gt;
         <title>APIHour #15</title>
         <updated>2015-06-10T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/06/10/apihour-15</id>
+        <link href="http://planet.clermontech.org/2015/06/10/apihour-15" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -340,6 +374,7 @@ Inscription avant le 30/09 par e-mail : ozssi-zdse@interieur.gouv.fr&lt;/p&gt;
         <title>Citizenfour : Projection et débat à Clermont-Ferrand.</title>
         <updated>2015-06-04T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/06/04/3-citizenfour-projection-debat</id>
+        <link href="http://planet.clermontech.org/2015/06/04/3-citizenfour-projection-debat" />
         <content type="html">&lt;p&gt;Les révélations d’Edward Snowden ont démontré que l’écoute massive de la population n’est plus de l’ordre du fantasme. Parce que nous pensons qu’être informé sur ce sujet est important, nous avons décidé d’organiser, en collaboration avec le cinéma Le Rio, une projection suivie d’un débat avec plusieurs invités dont Vincent Mazenod et Laurent Chemla. Après avoir recueilli les réactions qui feront suite au film, nous discuterons de la surveillance de masse, de la vie privée et, également, de l’actualité à l’étranger mais surtout en France.&lt;/p&gt;
 </content>
     </entry>
@@ -348,6 +383,7 @@ Inscription avant le 30/09 par e-mail : ozssi-zdse@interieur.gouv.fr&lt;/p&gt;
         <title>Google Safe Browsing: Security and Privacy</title>
         <updated>2015-06-04T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/06/04/2-seminaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2015/06/04/2-seminaire-confiance-numerique" />
         <content type="html">&lt;h3 id=&quot;amirit-kumar-inria-privatics-team-grenoble--france&quot;&gt;Amirit Kumar INRIA Privatics team, Grenoble,  France&lt;/h3&gt;
 &lt;p&gt;Phishing and malware websites are still duping unwary targets by infecting private computers or by committing cybercrimes such as fraud and identity theft. Safe Browsing is a defensive technology which identifies unsafe websites and notifies users in real-time of any potential harm of visiting a URL. All the established web service providers such as Google, Microsoft and Yandex offer Safe Browsing as feature in their software solutions and products. Hence, knowingly or unknowingly, you are certainly one of its users. The goal of this talk is to analyze the prevalent Safe Browsing architectures through a security and privacy point of view. While, some of these services such as Microsoft Smart Screen Filter are privacy unfriendly by design, i.e. without any effort, the backend server may track a user’s activity over the web. Other players such as Google and Yandex advert in their privacy policy that their Safe Browsing architecuture does allow them to track users. This talk would prove that their privacy policy is incorrect. On the security front, our findings are rather opposite. Microsoft Smart Screen Filter is a secure solution, while Google and Yandex Safe Browsing are insecure by design. We propose several denial-of-service attacks that simultaneously affect both the Safe Browsing servers and its clients. One of our attacks allows an adversary to force Google and Yandex to “blacklist” any target benign URL&lt;/p&gt;
 </content>
@@ -357,6 +393,7 @@ Inscription avant le 30/09 par e-mail : ozssi-zdse@interieur.gouv.fr&lt;/p&gt;
         <title>Misères des antivirus et splendeurs des malwares.</title>
         <updated>2015-06-04T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/06/04/1-seminaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2015/06/04/1-seminaire-confiance-numerique" />
         <content type="html">&lt;h3 id=&quot;guillaume-bonfante-loria-nancy--france&quot;&gt;Guillaume Bonfante, LORIA, Nancy,  France&lt;/h3&gt;
 &lt;p&gt;Ecrire un logiciel de détection de malware est une vraie gageure, de type indécidable. Mais ce qui rend les choses encore plus compliquées, c’est que les écrivains de virus emploient des techniques contre des heuristiques que pourraient employer des logiciels de détection. Je présenterai au travers de cas concrêts qui ont fait les titres des journaux des observations que nous avons faites au laboratoire. Et puis, pour garder le moral, je discute de quelques expériences amusantes sur les malware.&lt;/p&gt;
 </content>
@@ -366,6 +403,7 @@ Inscription avant le 30/09 par e-mail : ozssi-zdse@interieur.gouv.fr&lt;/p&gt;
         <title>Des applications web polyglottes avec Vert.x</title>
         <updated>2015-05-21T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/05/21/applications-concurrentes-polyglottes</id>
+        <link href="http://planet.clermontech.org/2015/05/21/applications-concurrentes-polyglottes" />
         <content type="html">&lt;p&gt;Au programme :
 Vert.x est une plateforme pour créer des applications concurrentes, performantes et polyglottes sur la JVM. Cette session parlera des choix faits par Vert.x, de son modèle de concurrence et explique comment écrire des applications concurrentes et performantes de manière très simple. Nous aborderons quelques aspects clés de Vert.x comme le bus d’évènement distribué ou la haute disponibilité. La présentation parlera de Vert.x 3.0, de ses nouvelles fonctionnalités et montrera des exemples dans plusieurs languages tels que Java, Javascript, Python ou Ruby.&lt;/p&gt;
 </content>
@@ -375,6 +413,7 @@ Vert.x est une plateforme pour créer des applications concurrentes, performante
         <title>Apéro Ruby Clermont.rb</title>
         <updated>2015-05-21T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/05/21/Apero-Clermontrb</id>
+        <link href="http://planet.clermontech.org/2015/05/21/Apero-Clermontrb" />
         <content type="html">&lt;p&gt;Un apéro Ruby est une rencontre informelle autour d’une bière pour échanger sur ruby et tout ce qui en fait un language si passionnant. Ce premier apéro n’a pas de thème en particulier, l’idée est de surtout faire connaissance, de monter une communauté ruby, et de trouver un thème pour la prochaine fois. Venez avec votre laptop ou non, un sujet à présenter ou non.
 Les rubyistes de tous niveaux et de tout poils peuvent se joindre à nous, les personnes non rubyistes mais qui veulent découvrir ce beau language sont aussi les bienvenus !
 Inscrivez vous sur la page Eventbrite de l’event (voir ci dessous)&lt;/p&gt;
@@ -385,6 +424,7 @@ Inscrivez vous sur la page Eventbrite de l’event (voir ci dessous)&lt;/p&gt;
         <title>Bigdata et intégration en entreprise</title>
         <updated>2015-04-23T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/04/23/Bigdata-et-integration-en-entreprise</id>
+        <link href="http://planet.clermontech.org/2015/04/23/Bigdata-et-integration-en-entreprise" />
         <content type="html">&lt;p&gt;Au programme :&lt;/p&gt;
 
 &lt;p&gt;Jean-Baptiste, membre et leader de nombreux projets Apache, viendra nous présenter cet écosystème et sa fondation. Leader sur le projet, il nous présentera Apache Karaf, conteneur OSGi léger de renom, qui sors en version 3.0.x avec comme objectif l’intégration en entreprise. Il abordera également Apache Falcon, système de gestion de flux Big Data sur Hadoop.&lt;/p&gt;
@@ -395,6 +435,7 @@ Inscrivez vous sur la page Eventbrite de l’event (voir ci dessous)&lt;/p&gt;
         <title>APIHour #14</title>
         <updated>2015-04-16T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/04/16/apihour-14</id>
+        <link href="http://planet.clermontech.org/2015/04/16/apihour-14" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -403,6 +444,7 @@ Inscrivez vous sur la page Eventbrite de l’event (voir ci dessous)&lt;/p&gt;
         <title>Sécurisation du cloud, schémas de recherches sur données chiffrées avancés</title>
         <updated>2015-04-02T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/04/02/seminaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2015/04/02/seminaire-confiance-numerique" />
         <content type="html">&lt;h3 id=&quot;alexandre-anzala-yamajako-thales-communication--security-thales-paris-france&quot;&gt;Alexandre Anzala-Yamajako Thales Communication &amp;amp; Security, Thales Paris, France&lt;/h3&gt;
 
 &lt;p&gt;L’augmentation des débits de connexion a permis l’avènement du stockage de données dans le cloud qui offre de nouvelles perspectives aux utilisateurs tout en créant des problématiques complexes de sécurité liées à l’hébergement de données sensibles sur un serveur distant qui n’est pas nécessairement de confiance. Un schéma de recherche sur données chiffrées propose à un client de stocker ses données sur un serveur en dehors de son périmètre de confiance tout en conservant la possibilité d’effectuer des recherches sur ces données. La propriété de sécurité que l’on cherche à atteindre est que le serveur distant opère sans découvrir ni les requêtes ni leurs réponses. On se propose dans cet exposé de présenter les différentes techniques permettant d’atteindre ces objectifs ainsi que la gageure que représente leur mise en œuvre efficace.&lt;/p&gt;
@@ -413,6 +455,7 @@ Inscrivez vous sur la page Eventbrite de l’event (voir ci dessous)&lt;/p&gt;
         <title>EMC Redefine IT Tour 2015</title>
         <updated>2015-04-02T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/04/02/emc-redefine-it-tour-2015</id>
+        <link href="http://planet.clermontech.org/2015/04/02/emc-redefine-it-tour-2015" />
         <content type="html">&lt;p&gt;EMC vient à votre rencontre !&lt;/p&gt;
 
 &lt;p&gt;Au programme : des sessions de travail &amp;amp; ateliers pratiques interactifs sur les thématiques de l’Infrastructure Convergée, le Software-Defined Storage, la protection des données et la technologie Flash.&lt;/p&gt;
@@ -423,6 +466,7 @@ Inscrivez vous sur la page Eventbrite de l’event (voir ci dessous)&lt;/p&gt;
         <title>Soirée MongoDB</title>
         <updated>2015-03-19T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/03/19/LavaJUG-MongoDB</id>
+        <link href="http://planet.clermontech.org/2015/03/19/LavaJUG-MongoDB" />
         <content type="html">
 &lt;p&gt;Au programme :&lt;/p&gt;
 
@@ -454,6 +498,7 @@ Inscrivez vous sur la page Eventbrite de l’event (voir ci dessous)&lt;/p&gt;
         <title>Séminaire Technique: Sécurité Logicielle Web</title>
         <updated>2015-03-12T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/03/12/seminaire-tech-securite-logicielle-web</id>
+        <link href="http://planet.clermontech.org/2015/03/12/seminaire-tech-securite-logicielle-web" />
         <content type="html">&lt;h3 id=&quot;mr-thomas-lallart-inra---avignon-mr-vincent-mazenod-uda---clermont&quot;&gt;Mr. Thomas LALLART (INRA - Avignon), Mr. Vincent MAZENOD (UDA - Clermont)&lt;/h3&gt;
 &lt;p&gt;A destination des développeurs-testeurs, des ASR, des chefs de projets et des utilisateurs d’applications Web, l’objectif de ce séminaire est d’échanger sur les notions de sécurité logicielle dans le monde du Web.&lt;/p&gt;
 </content>
@@ -463,6 +508,7 @@ Inscrivez vous sur la page Eventbrite de l’event (voir ci dessous)&lt;/p&gt;
         <title>De la confidentialité des votes: nouvelles métriques et constructions</title>
         <updated>2015-03-05T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/03/05/seminaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2015/03/05/seminaire-confiance-numerique" />
         <content type="html">&lt;h3 id=&quot;olivier-pereira-universit-catholique-de-louvain-ucl-crypto-group&quot;&gt;Olivier Pereira Université catholique de Louvain (UCL), Crypto group&lt;/h3&gt;
 
 &lt;p&gt;Le secret du vote est une exigence incontournable dans la plupart de nos élections. Ce secret n’est cependant jamais absolu : il va dépendre du format des bulletins de vote, des règles de dépouillement, du taux de participation des votants, et même de leurs choix. Qui plus est, ce secret peut être obtenu par des techniques très différentes, qui amènent généralement à différents compromis, et ce y compris dans les systèmes de vote dits “universellement vérifiables”. Dans cet exposé, nous introduisons différentes mesures de la confidentialité du vote, et illustrons leur usage dans des élections réelles. Nous introduirons aussi une nouvelle primitive cryptographique, les systèmes de chiffrement conforme à une mise en gage, et montrerons comment cette primitive peut être utilisée pour rendre des élections universellement vérifiables sans affaiblir le secret des votes, y compris à long terme.  Cet exposé est basé sur des travaux réalisés avec David Bernhard, Véronique Cortier, Edouard Cuvelier, Thomas Peters et Bogdan Warinschi.&lt;/p&gt;
@@ -473,6 +519,7 @@ Inscrivez vous sur la page Eventbrite de l’event (voir ci dessous)&lt;/p&gt;
         <title>Compromis temps-mémoire cryptanalytiques appliqués aux distributions non-uniformes</title>
         <updated>2015-03-05T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/03/05/seminaire-confiance-numerique-2</id>
+        <link href="http://planet.clermontech.org/2015/03/05/seminaire-confiance-numerique-2" />
         <content type="html">&lt;h3 id=&quot;gildas-avoine-irisa-insa-rennes&quot;&gt;Gildas Avoine IRISA INSA Rennes&lt;/h3&gt;
 
 &lt;p&gt;Les compromis temps-mémoire cryptanalytiques ont été introduits par Martin Hellman en 1980 afin de réaliser des recherches exhaustives de clefs. Une avancée majeure a été présentée à Crypto 2003 par Philippe Oechslin, avec les tables arc-en-ciel qui améliorent significativement le travail original de Hellman. Après l’introduction des compromis temps-mémoire cryptanalytiques, nous présenterons durant cet exposé une technique pour améliorer l’efficacité des compromis lorsque l’on considère une distribution non-uniforme des secrets, par exemple pour casser des mots de passe.&lt;/p&gt;
@@ -483,6 +530,7 @@ Inscrivez vous sur la page Eventbrite de l’event (voir ci dessous)&lt;/p&gt;
         <title>APIHour #13</title>
         <updated>2015-03-04T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/03/04/apihour-13</id>
+        <link href="http://planet.clermontech.org/2015/03/04/apihour-13" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -491,6 +539,7 @@ Inscrivez vous sur la page Eventbrite de l’event (voir ci dessous)&lt;/p&gt;
         <title>A la (re)découverte des langages fonctionnels</title>
         <updated>2015-02-26T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/02/26/A-la-re-decouverte-des-langages-fonctionnels</id>
+        <link href="http://planet.clermontech.org/2015/02/26/A-la-re-decouverte-des-langages-fonctionnels" />
         <content type="html">&lt;h3 id=&quot;a-la-redcouverte-des-langages-fonctionnels&quot;&gt;A la (re)découverte des langages fonctionnels&lt;/h3&gt;
 &lt;p&gt;Avec la redécouverte des langages &lt;strong&gt;fonctionnels&lt;/strong&gt;, poussés notamment par le besoin de &lt;strong&gt;parallélisme&lt;/strong&gt; sur les architectures &lt;strong&gt;multi-cœurs&lt;/strong&gt; et les problématiques de &lt;strong&gt;passage à l’échelle&lt;/strong&gt;, différents &lt;strong&gt;concepts&lt;/strong&gt;, mal connus du développeur non familiarisé avec l’approche fonctionnelle, deviennent &lt;strong&gt;populaires&lt;/strong&gt;.
 On entend ainsi de plus en plus parler de « &lt;strong&gt;lambda&lt;/strong&gt; », « &lt;strong&gt;closure&lt;/strong&gt; », voire même de « &lt;strong&gt;partialisation&lt;/strong&gt; », de « &lt;strong&gt;curryfication&lt;/strong&gt; » ou de « &lt;strong&gt;monade&lt;/strong&gt; ».
@@ -504,6 +553,7 @@ Pythonista, LOD and semantic web enthusiast, REST addict, geek&lt;/p&gt;
         <title>Des signatures en blanc de toutes les couleurs</title>
         <updated>2015-02-05T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/02/05/seminiaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2015/02/05/seminiaire-confiance-numerique" />
         <content type="html">&lt;p&gt;Les signatures en blanc ont trouvé de nombreuses applications quand de l’anonymat est nécessaire, on peut penser par exemple à des systèmes de monnaie électronique ou de vote électronique. Elles permettent à un utilisateur de faire signer un message à un signataire sans que celui-ci ne puisse obtenir d’information sur ce qu’il signe. Nous verrons comment l’approche autour des signatures en blanc a évolué, et présenterons comment obtenir un schéma à la fois optimal en terme de nombres d’étapes et efficace en terme de communication. Ensuite, nous montrerons comment un tel schéma peut être utiliser en vue d’application comme le vote, le paiement ou des opérations linéaires sur un réseau de senseurs.&lt;/p&gt;
 </content>
     </entry>
@@ -512,6 +562,7 @@ Pythonista, LOD and semantic web enthusiast, REST addict, geek&lt;/p&gt;
         <title>Spring Boot et Spring 4</title>
         <updated>2015-01-15T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/01/15/Spring-Boot-et-Spring-4.X</id>
+        <link href="http://planet.clermontech.org/2015/01/15/Spring-Boot-et-Spring-4.X" />
         <content type="html">&lt;h3 id=&quot;spring-boot&quot;&gt;Spring Boot&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;http://projects.spring.io/spring-boot/&quot;&gt;Spring Boot&lt;/a&gt; est une boîte à outils qui vous permet de développer et déployer vos applications Spring en un temps record, grâce a son approche orientée convention plutôt que configuration.
 Spring Boot inclus également &lt;em&gt;un mode de packaging qui permet de lancer son application avec une simple commande&lt;/em&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;java -jar application.jar&lt;/code&gt;&lt;em&gt;, des starters qui sont des dépendances spécialisée pour un usage donné, des endpoints automatiques orientés dev (/beans, /env, mapping) ou devops (/health), une configuration avancées très simple, tout est personnalisable, il propose un mécanisme d’activation de beans sur condition (par exemple présence d’une classe dans le classpath) très utile, &lt;a href=&quot;http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/&quot;&gt;guide de référence&lt;/a&gt;, configuration par défaut d’un certain nombre de paramètre via application.properties ou application.yml&lt;/em&gt;.
@@ -525,6 +576,7 @@ Spring 4.2 arrive dans quelques mois, cette présentation sera l’occasion de v
         <title>Séminaire Confiance Numérique</title>
         <updated>2015-01-08T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2015/01/08/seminiaire-confiance-numerique</id>
+        <link href="http://planet.clermontech.org/2015/01/08/seminiaire-confiance-numerique" />
         <content type="html">&lt;p&gt;Lionel Rivière, SAFRAN Morpho, IDentity and Security Alliance (The Morpho and Télécom ParisTech Research Center) et Télécom ParisTech. Evaluation de la Robustesse des Implémentations Face aux Attaques par Injection de Faute par Simulation de Faute Embarqué.&lt;/p&gt;
 </content>
     </entry>
@@ -533,6 +585,7 @@ Spring 4.2 arrive dans quelques mois, cette présentation sera l’occasion de v
         <title>APIHour #12</title>
         <updated>2014-12-16T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/12/16/apihour-12</id>
+        <link href="http://planet.clermontech.org/2014/12/16/apihour-12" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -541,6 +594,7 @@ Spring 4.2 arrive dans quelques mois, cette présentation sera l’occasion de v
         <title>Organisation, Méthode, Devops, Usines logicielles, ...</title>
         <updated>2014-12-11T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/12/11/organisation-methode-devops-usines-logicielles</id>
+        <link href="http://planet.clermontech.org/2014/12/11/organisation-methode-devops-usines-logicielles" />
         <content type="html">&lt;p&gt;Dimitri Baeli (&lt;a href=&quot;https://www.lesfurets.com&quot;&gt;LesFurets.com&lt;/a&gt;) baigne dans l’univers &lt;strong&gt;Java&lt;/strong&gt; depuis plus de 10 ans. Sa passion pour les usines logicielles, l’organisation des développements et les méthodes agiles ne l’empêche pas de mettre les mains dans le cambouis pour créer des outils utiles aux développeurs.&lt;/p&gt;
 </content>
     </entry>
@@ -549,6 +603,7 @@ Spring 4.2 arrive dans quelques mois, cette présentation sera l’occasion de v
         <title>On The Path To Wisdom</title>
         <updated>2014-11-19T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/11/19/on-the-path-to-wisdom</id>
+        <link href="http://planet.clermontech.org/2014/11/19/on-the-path-to-wisdom" />
         <content type="html">&lt;p&gt;Bon, disons que vous voulez développer une &lt;strong&gt;application web&lt;/strong&gt; en &lt;strong&gt;Java&lt;/strong&gt;. Au début, tout va bien, c’est assez petit, relativement simple, un peu de &lt;strong&gt;REST&lt;/strong&gt;, un peu de &lt;strong&gt;JavaScript&lt;/strong&gt;, et puis… et puis ca dérape. Un truc par ci, une feature par la, une nouvelle techno ici. Les applications web sont comme les hamburgers, c’est bon, mais dès que ça devient trop gros, c’est galère à manger. Sans compter les tests, l’intégration continue, la mise en production… &lt;br /&gt; &lt;strong&gt;Wisdom&lt;/strong&gt; (&lt;a href=&quot;http://wisdom-framework.org&quot;&gt;http://wisdom-framework.org&lt;/a&gt;) est un framework Web en Java. Et oui, encore un, mais il est &lt;strong&gt;modulaire&lt;/strong&gt; et &lt;strong&gt;dynamique&lt;/strong&gt;, et ça change les choses. Le serveur et vos applications sont comme un puzzle. Vous pouvez développer une pièce &lt;strong&gt;indépendamment&lt;/strong&gt; du reste, la &lt;strong&gt;tester&lt;/strong&gt;, l’intégrer, remplacer une pièce… Et ceci, dynamiquement, simplement et &lt;strong&gt;sans magie&lt;/strong&gt;. &lt;br /&gt; Grace à un watch mode basé sur Maven, le développement est rapide, efficace et fun. Le serveur en lui même est basé sur OSGi sans pour autant en subir les inconvénients.&lt;/p&gt;
 </content>
     </entry>
@@ -557,6 +612,7 @@ Spring 4.2 arrive dans quelques mois, cette présentation sera l’occasion de v
         <title>APIHour #11</title>
         <updated>2014-10-15T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/10/15/apihour-11</id>
+        <link href="http://planet.clermontech.org/2014/10/15/apihour-11" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -565,6 +621,7 @@ Spring 4.2 arrive dans quelques mois, cette présentation sera l’occasion de v
         <title>Java EE 7 , Jboss Forge , et le futur avec Java EE 8</title>
         <updated>2014-10-02T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/10/02/Java-EE-7-Jboss-Forge-et-le-futur-avec-Java-EE-8</id>
+        <link href="http://planet.clermontech.org/2014/10/02/Java-EE-7-Jboss-Forge-et-le-futur-avec-Java-EE-8" />
         <content type="html">&lt;p&gt;Au programme :
 Les &lt;strong&gt;nouveautés dans Java EE 7&lt;/strong&gt;, du &lt;strong&gt;développement rapide d’application avec&lt;a href=&quot;http://forge.jboss.org/&quot;&gt;Jboss Forge&lt;/a&gt;&lt;/strong&gt; et le &lt;strong&gt;futur avec Java EE 8&lt;/strong&gt;&lt;/p&gt;
 </content>
@@ -574,6 +631,7 @@ Les &lt;strong&gt;nouveautés dans Java EE 7&lt;/strong&gt;, du &lt;strong&gt;d�
         <title>Le bon testeur il teste.... et le mauvais testeur il teste aussi !</title>
         <updated>2014-09-11T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/09/11/Le-bon-testeur-il-teste-et-le-mauvais-testeur-il-teste-aussi</id>
+        <link href="http://planet.clermontech.org/2014/09/11/Le-bon-testeur-il-teste-et-le-mauvais-testeur-il-teste-aussi" />
         <content type="html">&lt;p&gt;Plusieurs &lt;strong&gt;règles simples&lt;/strong&gt; permettent d’améliorer la &lt;strong&gt;qualité de ses tests&lt;/strong&gt;, certains outils ou &lt;strong&gt;librairies&lt;/strong&gt; (FestAssert, AssertJ, InfiniTest, DBSetup) vont vous simplifier la vie ! Tour d’horizon des &lt;strong&gt;bonnes pratiques&lt;/strong&gt; au programme, le tout en &lt;strong&gt;livecoding&lt;/strong&gt; ! Il est toujours bon de refaire un peu d’évangélisation sur les tests : &lt;strong&gt;débutants bienvenus&lt;/strong&gt; !&lt;/p&gt;
 </content>
     </entry>
@@ -582,6 +640,7 @@ Les &lt;strong&gt;nouveautés dans Java EE 7&lt;/strong&gt;, du &lt;strong&gt;d�
         <title>APIHour #10</title>
         <updated>2014-07-10T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/07/10/apihour-10</id>
+        <link href="http://planet.clermontech.org/2014/07/10/apihour-10" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -590,6 +649,7 @@ Les &lt;strong&gt;nouveautés dans Java EE 7&lt;/strong&gt;, du &lt;strong&gt;d�
         <title>Introduction à NodeJS</title>
         <updated>2014-06-26T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/06/26/introduction-a-nodejs</id>
+        <link href="http://planet.clermontech.org/2014/06/26/introduction-a-nodejs" />
         <content type="html">&lt;p&gt;Paypal, LinkedIn, Wallmart… Tout le monde parle de NodeJS et des gains en performances qui ont été permis.
 Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
 </content>
@@ -599,6 +659,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>APIHour #9</title>
         <updated>2014-05-28T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/05/28/apihour-9</id>
+        <link href="http://planet.clermontech.org/2014/05/28/apihour-9" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -607,6 +668,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>Développeur front-end en milieu hostile</title>
         <updated>2014-05-22T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/05/22/Developpeur-front-end-en-milieu-hostile</id>
+        <link href="http://planet.clermontech.org/2014/05/22/Developpeur-front-end-en-milieu-hostile" />
         <content type="html">&lt;p&gt;Une présentation des &lt;strong&gt;outils&lt;/strong&gt; et &lt;strong&gt;bonnes pratiques&lt;/strong&gt; du développement &lt;strong&gt;front-end&lt;/strong&gt; pour survire dans un projet &lt;strong&gt;web&lt;/strong&gt;. De l’intégration continue à l’environnement de développement, en passant par la gestion de dépendances et la génération d’artifacts, tout y passe. Vous comprendrez pourquoi adopter ces nouveau outils, et comment les intégrer à vos processus actuels.&lt;/p&gt;
 </content>
     </entry>
@@ -615,6 +677,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>Apache Solr</title>
         <updated>2014-04-10T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/04/10/Apache-Solr</id>
+        <link href="http://planet.clermontech.org/2014/04/10/Apache-Solr" />
         <content type="html">&lt;p&gt;Découvrez les outils &lt;strong&gt;open source&lt;/strong&gt; de &lt;strong&gt;Search&lt;/strong&gt; qui ont déjà &lt;strong&gt;convaincu&lt;/strong&gt; de nombreuses &lt;strong&gt;entreprises&lt;/strong&gt;, et qui est proposé par la fondation Apache : &lt;strong&gt;Lucene / Solr&lt;/strong&gt;. Dans la première partie de soirée, histoire de savoir de quoi on parle, Aurélien vous présentera les projets Lucene et Solr, leurs composants, leur &lt;strong&gt;architecture&lt;/strong&gt;, leurs &lt;strong&gt;features&lt;/strong&gt;, et on saupoudrera tout ça de &lt;strong&gt;scalabilité&lt;/strong&gt; avec &lt;strong&gt;SolrCloud&lt;/strong&gt;.&lt;/p&gt;
 </content>
     </entry>
@@ -623,6 +686,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>APIHour #8</title>
         <updated>2014-04-08T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/04/08/apihour-8</id>
+        <link href="http://planet.clermontech.org/2014/04/08/apihour-8" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -631,6 +695,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>Java 8 : lambdas, Streams et Collectors, ...</title>
         <updated>2014-03-13T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/03/13/Java-8-lambdas-Streams-et-Collectors-le-nouveau-visage-de-l-API-collection</id>
+        <link href="http://planet.clermontech.org/2014/03/13/Java-8-lambdas-Streams-et-Collectors-le-nouveau-visage-de-l-API-collection" />
         <content type="html">&lt;p&gt;L’API &lt;strong&gt;la plus utilisée&lt;/strong&gt; du JDK est sans aucun doute l’&lt;strong&gt;API Collection&lt;/strong&gt;. Brillamment conçue il y a un peu &lt;strong&gt;plus de 15 ans&lt;/strong&gt;, elle est encore aujourd’hui &lt;strong&gt;au coeur&lt;/strong&gt; de toutes les &lt;strong&gt;applications Java&lt;/strong&gt;. En 2004, elle a subi son premier lifting, avec l’introduction des &lt;strong&gt;génériques&lt;/strong&gt;. Cette mise à jour, bien qu’importante, n’a cependant pas modifié ses &lt;strong&gt;patterns d’utilisation&lt;/strong&gt;. Avec l’introduction des &lt;strong&gt;lambdas&lt;/strong&gt; en &lt;strong&gt;Java 8&lt;/strong&gt;, l’API Collection est à nouveau &lt;strong&gt;réécrite&lt;/strong&gt;, mais cette fois la situation est différente : ses patterns d’utilisation sont &lt;strong&gt;complètement changés&lt;/strong&gt;.&lt;/p&gt;
 </content>
     </entry>
@@ -639,6 +704,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>JS101: Une introduction à JavaScript</title>
         <updated>2014-03-11T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/03/11/js-101</id>
+        <link href="http://planet.clermontech.org/2014/03/11/js-101" />
         <content type="html">&lt;p&gt;Une introduction au langage, qui s’adresse aux débutants autant qu’aux personnes de niveau intermédiaire.&lt;/p&gt;
 </content>
     </entry>
@@ -647,6 +713,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>APIHour #7</title>
         <updated>2014-02-26T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/02/26/apihour-7</id>
+        <link href="http://planet.clermontech.org/2014/02/26/apihour-7" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -655,6 +722,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>Lambda Bestiary avec Rémi Forax</title>
         <updated>2014-01-16T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2014/01/16/Lambda-Bestiary-avec-Remi-Forax</id>
+        <link href="http://planet.clermontech.org/2014/01/16/Lambda-Bestiary-avec-Remi-Forax" />
         <content type="html">&lt;p&gt;Les &lt;strong&gt;lambdas&lt;/strong&gt; vont changer l’écosystème &lt;strong&gt;Java&lt;/strong&gt;, qu’on le veuille ou non, la révolution est en marche. Plutôt qu’un talk sur la syntaxe des lambdas, je vais expliquer pourquoi il y a des lambdas en Java, quelles sont les &lt;strong&gt;concepts&lt;/strong&gt; derrière les lambdas, pourquoi les lambdas sont ce qu’elles sont. Puis dans un second temps, je prendrais les principaux &lt;strong&gt;design patterns&lt;/strong&gt;, command, factory ou visiteur, je montrerais comment leurs implantations peut être simplifiés en utilisant des lambdas et je m’en servirais pour essayer de &lt;strong&gt;prédire l’avenir de Java&lt;/strong&gt;.&lt;/p&gt;
 </content>
     </entry>
@@ -663,6 +731,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>APIHour #6</title>
         <updated>2013-12-17T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2013/12/17/apihour-6</id>
+        <link href="http://planet.clermontech.org/2013/12/17/apihour-6" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -671,6 +740,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>APIHour #5</title>
         <updated>2013-11-29T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2013/11/29/apihour-5</id>
+        <link href="http://planet.clermontech.org/2013/11/29/apihour-5" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -679,6 +749,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>APIHour #4</title>
         <updated>2013-09-12T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2013/09/12/apihour-4</id>
+        <link href="http://planet.clermontech.org/2013/09/12/apihour-4" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -687,6 +758,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>APIHour #3</title>
         <updated>2013-07-03T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2013/07/03/apihour-3</id>
+        <link href="http://planet.clermontech.org/2013/07/03/apihour-3" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -695,6 +767,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>APIHour #2</title>
         <updated>2013-05-23T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2013/05/23/apihour-2</id>
+        <link href="http://planet.clermontech.org/2013/05/23/apihour-2" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
@@ -703,6 +776,7 @@ Venez découvrir cet outil et apprendre à l’apprivoiser.&lt;/p&gt;
         <title>APIHour #1</title>
         <updated>2013-04-03T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2013/04/03/apihour-1</id>
+        <link href="http://planet.clermontech.org/2013/04/03/apihour-1" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
 </content>
     </entry>
