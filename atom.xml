@@ -2,12 +2,24 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2017-09-04T09:04:38+00:00</updated>
+    <updated>2017-10-05T09:04:45+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>LavaJUG S07E01</title>
+        <updated>2017-10-12T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2017/10/12/happy-dev</id>
+        <link href="http://planet.clermontech.org/2017/10/12/happy-dev" />
+        <content type="html">&lt;p&gt;Une entreprise sans bons développeurs, c’est comme du code sans test unitaire : à un moment ou à un autre, ça ne fonctionnera plus.
+Aussi devient-il impératif, sinon vital, d’attirer les meilleurs d’entre eux, mais également de savoir les garder au sein de son entreprise. Si cela est simple à dire, réussir à le faire correctement et à maintenir un tel contexte attractif n’est pas chose facile.
+Vous vous interrogez sur la façon de créer un environnement de développement qui incite les développeurs à donner le meilleur d’eux-mêmes et à progresser chaque jour ? Vous voulez également vous assurer de la cohérence des évolutions technologiques tout en permettant aux équipes de tester les dernières nouveautés et en ayant une roadmap technologique à suivre ?
+Au sein de nos entreprises respectives, nous avons pu prendre une part active à l’animation des communautés de développeurs et à la mise en mouvement de leur environnement de travail. Nous souhaitons partager nos découvertes, nos expériences et nos convictions.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>APIHour #30</title>
