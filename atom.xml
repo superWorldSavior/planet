@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2017-10-05T09:25:21+00:00</updated>
+    <updated>2017-10-05T11:39:16+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -18,6 +18,15 @@
 Aussi devient-il impératif, sinon vital, d’attirer les meilleurs d’entre eux, mais également de savoir les garder au sein de son entreprise. Si cela est simple à dire, réussir à le faire correctement et à maintenir un tel contexte attractif n’est pas chose facile.
 Vous vous interrogez sur la façon de créer un environnement de développement qui incite les développeurs à donner le meilleur d’eux-mêmes et à progresser chaque jour ? Vous voulez également vous assurer de la cohérence des évolutions technologiques tout en permettant aux équipes de tester les dernières nouveautés et en ayant une roadmap technologique à suivre ?
 Au sein de nos entreprises respectives, nous avons pu prendre une part active à l’animation des communautés de développeurs et à la mise en mouvement de leur environnement de travail. Nous souhaitons partager nos découvertes, nos expériences et nos convictions.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>MUG In Clermont - 2</title>
+        <updated>2017-10-10T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2017/10/10/muginclermont-2</id>
+        <link href="http://planet.clermontech.org/2017/10/10/muginclermont-2" />
+        <content type="html">&lt;p&gt;Bonjour à tous et à toutes,  C’est la rentrée et nous reprenons nous aussi du service.  Pour commencer ce nouveau cycle, nous vous proposons une conférence autour de la technologie .NET Core et l’open-source chez Microsoft.  Cette session sera animée par Thomas Bailly Artiste-Développeur indépendant et Microsoft fan-boy.  Début des inscriptions : Maintenant ! Attention, places limitées…&lt;/p&gt;
 </content>
     </entry>
     
