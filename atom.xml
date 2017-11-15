@@ -2,12 +2,25 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2017-11-15T17:50:42+00:00</updated>
+    <updated>2017-11-15T18:08:40+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>MUG In Clermont - 3</title>
+        <updated>2017-12-06T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2017/12/06/muginclermont-3</id>
+        <link href="http://planet.clermontech.org/2017/12/06/muginclermont-3" />
+        <content type="html">&lt;p&gt;Bonjour à toutes et à tous, 
+Comme nous l’annoncions lors de notre dernière séance, nous sommes invités par Michelin lors du hackathon AI’nnov à présenter une courte session technique sur le développement dans le monde Microsoft. 
+Au menu de cette session nous aborderons différentes technologies, Visual Studio, VSCode, Azure, Docker, Rancher, …
+Le nombre de places est limité et les inscriptions doivent être réalisées à l’avance afin de pouvoir disposer des badges d’accès nécessaires. 
+Pour vous inscrire, merci d’envoyer un mail à jean.damay@michelin.com ou isabelle.asseline@michelin.com.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>APIHour #32</title>
@@ -36,19 +49,6 @@
 Aussi devient-il impératif, sinon vital, d’attirer les meilleurs d’entre eux, mais également de savoir les garder au sein de son entreprise. Si cela est simple à dire, réussir à le faire correctement et à maintenir un tel contexte attractif n’est pas chose facile.
 Vous vous interrogez sur la façon de créer un environnement de développement qui incite les développeurs à donner le meilleur d’eux-mêmes et à progresser chaque jour ? Vous voulez également vous assurer de la cohérence des évolutions technologiques tout en permettant aux équipes de tester les dernières nouveautés et en ayant une roadmap technologique à suivre ?
 Au sein de nos entreprises respectives, nous avons pu prendre une part active à l’animation des communautés de développeurs et à la mise en mouvement de leur environnement de travail. Nous souhaitons partager nos découvertes, nos expériences et nos convictions.&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>MUG In Clermont - 3</title>
-        <updated>2017-10-10T00:00:00+00:00</updated>
-        <id>http://planet.clermontech.org/2017/10/10/muginclermont-3</id>
-        <link href="http://planet.clermontech.org/2017/10/10/muginclermont-3" />
-        <content type="html">&lt;p&gt;Bonjour à toutes et à tous, 
-Comme nous l’annoncions lors de notre dernière séance, nous sommes invités par Michelin lors du hackathon AI’nnov à présenter une courte session technique sur le développement dans le monde Microsoft. 
-Au menu de cette session nous aborderons différentes technologies, Visual Studio, VSCode, Azure, Docker, Rancher, …
-Le nombre de places est limité et les inscriptions doivent être réalisées à l’avance afin de pouvoir disposer des badges d’accès nécessaires. 
-Pour vous inscrire, merci d’envoyer un mail à jean.damay@michelin.com ou isabelle.asseline@michelin.com.&lt;/p&gt;
 </content>
     </entry>
     
