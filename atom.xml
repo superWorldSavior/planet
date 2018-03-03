@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2018-03-03T08:28:46+00:00</updated>
+    <updated>2018-03-03T08:42:30+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -36,6 +36,20 @@
 Petit rappel du concept: il s’agit d’organiser des apéros le même soir dans les différentes villes de France où des antennes AFUP sont présentes. Au programme donc de l’échange dans la joie et la bonne humeur ainsi qu’un challenge avec les autres antennes !
 Pas besoin d’inscription préalable.
 Cette soirée est sponsorisée par &lt;a href=&quot;https://domraider.io&quot;&gt;Domraider&lt;/a&gt;&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>MUG In Clermont - 4</title>
+        <updated>2018-03-06T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2018/03/06/muginclermont-4</id>
+        <link href="http://planet.clermontech.org/2018/03/06/muginclermont-4" />
+        <content type="html">&lt;p&gt;Bonjour à toutes et à tous, 
+Lors de notre dernière séance, nous étions invités à présenter une courte session technique sur le développement dans le monde Microsoft, par Michelin lors du hackathon AI’nnov. 
+Au menu de cette session nous abordions différentes technologies, Visual Studio, VSCode, Azure, Docker, Rancher, ReactJs, .NET Core, …
+Pour cette première session de l’année nous allons ré-itérer cette présentation en réalisant l’intégralité (ou presque) de notre présentation en live.
+Les places sont limitées, merci de vous inscrire au préalable sur notre meetup!
+@ très vite, même endroit, même heure (18H30 à la salle de conférence “Modis”)&lt;/p&gt;
 </content>
     </entry>
     
