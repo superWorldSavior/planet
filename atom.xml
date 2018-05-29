@@ -2,12 +2,25 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2018-05-28T09:15:45+00:00</updated>
+    <updated>2018-05-29T16:16:44+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>MUG In Clermont - 5</title>
+        <updated>2018-06-05T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2018/06/05/muginclermont-5</id>
+        <link href="http://planet.clermontech.org/2018/06/05/muginclermont-5" />
+        <content type="html">&lt;p&gt;Hello les artistes, 
+Nous sommes prêts pour une nouvelle session.  Pour faire suite à notre dernière présentation, nous allons aborder un peu plus en profondeur les possibilités de Team Foundation Services au travers de Visual Studio Online (VSO pour les intimes).
+Ce talk sera animé par Johann Levesque artiste développeur passionné ;)
+Une fois n’est pas coutume, nous changeons aussi de lieux, nous vous proposons de nous retrouver au Loft, 28 Rue Henri Barbusse, 63000 Clermont-Ferrand.
+Attention le nombre de places est limité, nous vous conseillons de vous inscrire très rapidement!&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>DomRaider DevTalk #1</title>
