@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2018-06-12T09:23:51+00:00</updated>
+    <updated>2018-06-13T14:10:57+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -15,6 +15,21 @@
         <id>http://planet.clermontech.org/2018/07/04/atelier-docker</id>
         <link href="http://planet.clermontech.org/2018/07/04/atelier-docker" />
         <content type="html">&lt;p&gt;Atelier durant lequel vous pourrez découvrir ou bien vous perfectionner sur Docker.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>MUG In Clermont - 6</title>
+        <updated>2018-06-22T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2018/06/22/muginclermont-6</id>
+        <link href="http://planet.clermontech.org/2018/06/22/muginclermont-6" />
+        <content type="html">&lt;p&gt;Hello les artistes,
+Nous vous proposons une soirée avec un format différent des autres fois.
+Les étudiants de l’IUT Info de Clermont-Ferrand se proposent de venir nous parler de leurs projets informatiques au sein du Club Informatique, animé par Marc Chevaldonné, Maître de Conférences à l’IUT.
+Les étudiants nous parlerons de leur projet de l’année dernière, développé en Xamarin. Leur objectif est de réaliser une application de programmation de robot à destination des enfants.
+A soirée spéciale, lieu spécial !
+Nous changeons d’endroit pour nous retrouver au café Ballainvilliers. Le nombre de places sera très limité.
+A très vite.&lt;/p&gt;
 </content>
     </entry>
     
