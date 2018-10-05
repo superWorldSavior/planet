@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2018-10-05T20:16:27+00:00</updated>
+    <updated>2018-10-05T20:56:01+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -28,26 +28,6 @@
     </entry>
     
     <entry>
-        <title>Soirée Hacktoberfest</title>
-        <updated>2018-10-18T00:00:00+00:00</updated>
-        <id>http://planet.clermontech.org/2018/10/18/hacktoberfest</id>
-        <link href="http://planet.clermontech.org/2018/10/18/hacktoberfest" />
-        <content type="html">&lt;p&gt;L’Hacktoberfest est un évènement qui promeut le logiciel libre et invite tous les développeurs à contribuer à ces logiciels durant le mois d’octobre. À l’image de nombreuses villes en France et à travers le monde, nous organisons une soirée pour nous réunir et contribuer à des projets open source.&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>Atelier UX/UI</title>
-        <updated>2018-10-18T00:00:00+00:00</updated>
-        <id>http://planet.clermontech.org/2018/10/18/code_week_workshop</id>
-        <link href="http://planet.clermontech.org/2018/10/18/code_week_workshop" />
-        <content type="html">&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique pour célébrer l’apprentissage du code. Cette cinquième édition se déroulera du 6 au 21 octobre 2018.
-Cette quatrième soirée de la Code Week propose une atelier autour de l’UX/UI. Cet atelier est animé par C.Bernimont et M. Gourdet
-20 places sur inscription&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
         <title>MUG In Clermont - 7</title>
         <updated>2018-10-16T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2018/10/16/muginclermont-7</id>
@@ -58,38 +38,6 @@ Ancien évangeliste technique de Microsoft, il est actuellement membre du Micros
 Il nous fera le plaisir de nous faire un retour d’expérience des développements qu’il réalise pour sa solution, basée sur WPF.
 Comme d’habitude, ce talk se terminera par une petite collation.
 A très vite les artistes…&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>Coding Night</title>
-        <updated>2018-10-12T00:00:00+00:00</updated>
-        <id>http://planet.clermontech.org/2018/10/12/code_week_coding_night</id>
-        <link href="http://planet.clermontech.org/2018/10/12/code_week_coding_night" />
-        <content type="html">&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique pour célébrer l’apprentissage du code. Cette cinquième édition se déroulera du 6 au 21 octobre 2018.
-Cette troisième soirée propose un nuit entière de jeux de code (Défis, Robots
-  … ). Cette soirée est ouverte à tous.&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>Atelier Docker/Rancher</title>
-        <updated>2018-10-10T00:00:00+00:00</updated>
-        <id>http://planet.clermontech.org/2018/10/10/code_week_workshop</id>
-        <link href="http://planet.clermontech.org/2018/10/10/code_week_workshop" />
-        <content type="html">&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique pour célébrer l’apprentissage du code. Cette cinquième édition se déroulera du 6 au 21 octobre 2018.
-Cette deuxième soirée de la Code Week propose une atelier autour de Docker et Rancher organisé par le MUG.
-20 places sur inscription&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-        <title>Markdown/Org-mode/LaTeX : Faire un beau rapport</title>
-        <updated>2018-10-09T00:00:00+00:00</updated>
-        <id>http://planet.clermontech.org/2018/10/09/code_week_talk</id>
-        <link href="http://planet.clermontech.org/2018/10/09/code_week_talk" />
-        <content type="html">&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique pour célébrer l’apprentissage du code. Cette cinquième édition se déroulera du 6 au 21 octobre 2018.
-Cette première soirée propose une conférence sur les languages de balisage Markdown, Org-mode et LaTex présentée par Evrard Van Espen&lt;/p&gt;
 </content>
     </entry>
     
