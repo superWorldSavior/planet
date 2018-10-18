@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2018-10-18T10:33:20+00:00</updated>
+    <updated>2018-10-18T19:17:08+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -24,6 +24,15 @@
         <id>http://planet.clermontech.org/2018/10/30/apihour38</id>
         <link href="http://planet.clermontech.org/2018/10/30/apihour38" />
         <content type="html">&lt;p&gt;Quatre conférences courtes (10 minutes + 5 minutes de questions) pour introduire une technologie, un concept ou un outils et en débattre ensuite autour d’un verre.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Istio, we have a problem! Understanding and fixing bugs with a service-mesh</title>
+        <updated>2018-10-24T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2018/10/24/lavajug</id>
+        <link href="http://planet.clermontech.org/2018/10/24/lavajug" />
+        <content type="html">&lt;p&gt;We’ve just deployed a shinny new set of micro-services and it behaves in a strange manner. Hard to say why with so many moving parts… Let’s leverage the newly installed service mesh to understand what we’ve deployed, find the root problem, fix it with a bandaid and then do a proper, non trivial, blue-green deployment of a v2. That will involve the Service Graph, Prometheus monitoring, Grafana Dashboards, Traffic mirroring, all orchestrated in a simple manner by Istio.&lt;/p&gt;
 </content>
     </entry>
     
